@@ -1,0 +1,1135 @@
+INFO 2018-07-27 12:03:52,607 [main] [kr.co.ldcc.lemp.hybrid.server.core.MessageProcessorFactory]  ============ Starting to register MessageProcessor... ==============
+INFO 2018-07-27 12:03:52,610 [main] [kr.co.ldcc.lemp.hybrid.server.core.MessageProcessorFactory]  ============ Finished to register "1" MessageProcessors as spring bean!  ==============
+INFO 2018-07-27 12:03:53,341 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Start::register()
+INFO 2018-07-27 12:03:53,345 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode LOGIN was found and registered by bean LOGIN_ADT!
+INFO 2018-07-27 12:03:53,346 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0004 was found and registered by bean ZZ0004_ADT_GetFileUID!
+INFO 2018-07-27 12:03:53,346 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0005 was found and registered by bean ZZ0005_ADT_DeviceActivation!
+INFO 2018-07-27 12:03:53,346 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0006 was found and registered by bean ZZ0006_ADT_Update!
+INFO 2018-07-27 12:03:53,346 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0007 was found and registered by bean ZZ0007_ADT_NoticeList!
+INFO 2018-07-27 12:03:53,346 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0008 was found and registered by bean ZZ0008_ADT_VerifyHash!
+INFO 2018-07-27 12:03:53,347 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0010 was found and registered by bean ZZ0010_ADT_GetCiperKey!
+INFO 2018-07-27 12:03:53,347 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0011 was found and registered by bean ZZ0011_ADT_KeyShare!
+INFO 2018-07-27 12:03:53,347 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  End::register
+ERROR 2018-07-27 12:03:53,576 [main] [kr.co.ldcc.lemp.hybrid.server.web.service.ServicePauseInterceptorService]  Has occur error during loading servicePauseInterceptorConfig.xml
+INFO 2018-07-27 12:03:53,583 [main] [kr.co.ldcc.lemp.journal.IntegrationJournalService]  Journal Service : true
+INFO 2018-07-27 12:03:53,719 [main] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Success to load SampleSqlMapConfig.xml
+INFO 2018-07-27 12:03:53,815 [main] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Success to load journalDB_SqlMapConfig.xml
+INFO 2018-07-27 12:03:53,959 [main] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Success to load LEMPDB_SqlMapConfig.xml
+INFO 2018-07-27 12:03:54,820 [main] [kr.co.ldcc.lemp.hybrid.server.web.control.MessageController]  New Seed : 617623604
+INFO 2018-07-27 14:10:45,482 [main] [kr.co.ldcc.lemp.hybrid.server.core.MessageProcessorFactory]  ============ Starting to register MessageProcessor... ==============
+INFO 2018-07-27 14:10:45,483 [main] [kr.co.ldcc.lemp.hybrid.server.core.MessageProcessorFactory]  ============ Finished to register "1" MessageProcessors as spring bean!  ==============
+INFO 2018-07-27 14:10:46,218 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Start::register()
+INFO 2018-07-27 14:10:46,222 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode DM0001 was found and registered by bean DM0001_Adapter!
+INFO 2018-07-27 14:10:46,223 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode LOGIN was found and registered by bean LOGIN_ADT!
+INFO 2018-07-27 14:10:46,223 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0004 was found and registered by bean ZZ0004_ADT_GetFileUID!
+INFO 2018-07-27 14:10:46,223 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0005 was found and registered by bean ZZ0005_ADT_DeviceActivation!
+INFO 2018-07-27 14:10:46,223 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0006 was found and registered by bean ZZ0006_ADT_Update!
+INFO 2018-07-27 14:10:46,223 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0007 was found and registered by bean ZZ0007_ADT_NoticeList!
+INFO 2018-07-27 14:10:46,224 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0008 was found and registered by bean ZZ0008_ADT_VerifyHash!
+INFO 2018-07-27 14:10:46,224 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0010 was found and registered by bean ZZ0010_ADT_GetCiperKey!
+INFO 2018-07-27 14:10:46,224 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0011 was found and registered by bean ZZ0011_ADT_KeyShare!
+INFO 2018-07-27 14:10:46,224 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  End::register
+ERROR 2018-07-27 14:10:46,428 [main] [kr.co.ldcc.lemp.hybrid.server.web.service.ServicePauseInterceptorService]  Has occur error during loading servicePauseInterceptorConfig.xml
+INFO 2018-07-27 14:10:46,435 [main] [kr.co.ldcc.lemp.journal.IntegrationJournalService]  Journal Service : true
+INFO 2018-07-27 14:10:46,566 [main] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Success to load SampleSqlMapConfig.xml
+INFO 2018-07-27 14:10:46,657 [main] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Success to load journalDB_SqlMapConfig.xml
+INFO 2018-07-27 14:10:46,807 [main] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Success to load LEMPDB_SqlMapConfig.xml
+INFO 2018-07-27 14:10:47,629 [main] [kr.co.ldcc.lemp.hybrid.server.web.control.MessageController]  New Seed : 617625773
+INFO 2018-07-27 14:11:22,239 [http-8080-1] [kr.co.ldcc.lemp.hybrid.server.web.control.MessageController]  ===== Start LOGIN  >>>>> 
+INFO 2018-07-27 14:11:22,248 [http-8080-1] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LEMPDB
+INFO 2018-07-27 14:11:22,249 [http-8080-1] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LEMPDB
+INFO 2018-07-27 14:11:22,470 [http-8080-1] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LEMPDB
+INFO 2018-07-27 14:11:22,470 [http-8080-1] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LEMPDB
+INFO 2018-07-27 14:11:22,474 [http-8080-1] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LEMPDB
+INFO 2018-07-27 14:11:22,474 [http-8080-1] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LEMPDB
+INFO 2018-07-27 14:11:23,035 [http-8080-1] [kr.co.ldcc.lemp.hybrid.server.web.control.MessageController]  TEST LICENSE!
+ERROR 2018-07-27 14:11:23,035 [http-8080-1] [kr.co.ldcc.lemp.hybrid.server.web.control.MessageController]  Failed to parsing Json!
+INFO 2018-07-27 14:11:23,042 [http-8080-1] [kr.co.ldcc.lemp.hybrid.server.web.control.MessageController]  <<<<<  LOGIN End =====
+INFO 2018-07-27 14:12:20,010 [http-8080-1] [kr.co.ldcc.lemp.hybrid.server.web.control.MessageController]  ===== Start LOGIN  >>>>> 
+WARN 2018-07-27 14:12:20,023 [http-8080-1] [kr.co.ldcc.lemp.hybrid.server.web.service.SessionAwareService]  6176257730000000000  > session ID : Unknown
+INFO 2018-07-27 14:12:20,036 [http-8080-1] [kr.co.ldcc.lemp.hybrid.server.web.control.MessageController]  사용자 인증 순서 : first  - lemp  second - legacy
+INFO 2018-07-27 14:12:20,039 [http-8080-1] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LEMPDB
+INFO 2018-07-27 14:12:20,040 [http-8080-1] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LEMPDB
+INFO 2018-07-27 14:12:20,045 [http-8080-1] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LEMPDB
+INFO 2018-07-27 14:12:20,045 [http-8080-1] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LEMPDB
+INFO 2018-07-27 14:12:20,049 [http-8080-1] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LEMPDB
+INFO 2018-07-27 14:12:20,049 [http-8080-1] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LEMPDB
+INFO 2018-07-27 14:12:20,058 [http-8080-1] [kr.co.ldcc.portal.auth.service.DBB2CUserService]  ===== Start:: B2C - authenticate() : 
+INFO 2018-07-27 14:12:20,059 [http-8080-1] [kr.co.ldcc.portal.auth.service.DBB2CUserService]  End::authenticate() :  =====
+INFO 2018-07-27 14:12:20,062 [http-8080-1] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LegacyDB
+ERROR 2018-07-27 14:12:20,064 [http-8080-1] [adapter.DM0001_Adapter]  에러 발생
+org.apache.ibatis.exceptions.PersistenceException: 
+### Error querying database.  Cause: java.lang.IllegalArgumentException: Mapped Statements collection does not contain value for DM0001.1001
+### Cause: java.lang.IllegalArgumentException: Mapped Statements collection does not contain value for DM0001.1001
+	at org.apache.ibatis.exceptions.ExceptionFactory.wrapException(ExceptionFactory.java:26) ~[mybatis-3.2.7.jar:3.2.7]
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:111) ~[mybatis-3.2.7.jar:3.2.7]
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:102) ~[mybatis-3.2.7.jar:3.2.7]
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectOne(DefaultSqlSession.java:66) ~[mybatis-3.2.7.jar:3.2.7]
+	at kr.co.ldcc.lemp.adapter.db.DBAdapterImpl.selectOne(DBAdapterImpl.java:46) ~[LEMP-Adapter-1.0.jar:?]
+	at adapter.DM0001_Adapter.onProcess(DM0001_Adapter.java:45) [lemp-adapter.jar:?]
+	at kr.co.ldcc.lemp.hybrid.adapter.dispatcher.LoaderAdapterDispatcher.dispatch(LoaderAdapterDispatcher.java:83) [messageframework-adapter-common-1.0.jar:?]
+	at bizlogic.DefaultByPassBiz.process(DefaultByPassBiz.java:61) [DefaultByPassBiz.class:?]
+	at kr.co.ldcc.lemp.hybrid.server.web.service.JsonMessageService.dispacth(JsonMessageService.java:193) [messageframework-servlet-1.0.jar:?]
+	at kr.co.ldcc.lemp.hybrid.server.web.control.MessageController.legacyTR(MessageController.java:1530) [messageframework-servlet-1.0.jar:?]
+	at kr.co.ldcc.lemp.hybrid.server.web.control.MessageController.doTR(MessageController.java:1476) [messageframework-servlet-1.0.jar:?]
+	at kr.co.ldcc.lemp.hybrid.server.web.control.MessageController.processLoginJsonMessage(MessageController.java:1384) [messageframework-servlet-1.0.jar:?]
+	at kr.co.ldcc.lemp.hybrid.server.web.control.MessageController.handleJsonMessage(MessageController.java:1012) [messageframework-servlet-1.0.jar:?]
+	at kr.co.ldcc.lemp.hybrid.server.web.control.MessageController.handleMessageProcess(MessageController.java:434) [messageframework-servlet-1.0.jar:?]
+	at kr.co.ldcc.lemp.hybrid.server.web.control.MessageController.handleMessage(MessageController.java:330) [messageframework-servlet-1.0.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.6.0_45]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.6.0_45]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.6.0_45]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.6.0_45]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205) [spring-web-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:133) [spring-web-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:97) [spring-webmvc-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:827) [spring-webmvc-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:738) [spring-webmvc-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:85) [spring-webmvc-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:967) [spring-webmvc-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:901) [spring-webmvc-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:970) [spring-webmvc-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:861) [spring-webmvc-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617) [servlet-api.jar:?]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:846) [spring-webmvc-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:723) [servlet-api.jar:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290) [catalina.jar:6.0.48]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206) [catalina.jar:6.0.48]
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:81) [spring-web-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) [spring-web-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235) [catalina.jar:6.0.48]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206) [catalina.jar:6.0.48]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:197) [spring-web-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) [spring-web-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235) [catalina.jar:6.0.48]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206) [catalina.jar:6.0.48]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233) [catalina.jar:6.0.48]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191) [catalina.jar:6.0.48]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127) [catalina.jar:6.0.48]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103) [catalina.jar:6.0.48]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109) [catalina.jar:6.0.48]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293) [catalina.jar:6.0.48]
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:859) [tomcat-coyote.jar:6.0.48]
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:610) [tomcat-coyote.jar:6.0.48]
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:503) [tomcat-coyote.jar:6.0.48]
+	at java.lang.Thread.run(Unknown Source) [?:1.6.0_45]
+Caused by: java.lang.IllegalArgumentException: Mapped Statements collection does not contain value for DM0001.1001
+	at org.apache.ibatis.session.Configuration$StrictMap.get(Configuration.java:797) ~[mybatis-3.2.7.jar:3.2.7]
+	at org.apache.ibatis.session.Configuration.getMappedStatement(Configuration.java:631) ~[mybatis-3.2.7.jar:3.2.7]
+	at org.apache.ibatis.session.Configuration.getMappedStatement(Configuration.java:624) ~[mybatis-3.2.7.jar:3.2.7]
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:107) ~[mybatis-3.2.7.jar:3.2.7]
+	... 50 more
+INFO 2018-07-27 14:12:20,069 [http-8080-1] [kr.co.ldcc.lemp.hybrid.server.web.control.MessageController]  <<<<<  LOGIN End =====
+INFO 2018-07-27 14:13:37,853 [http-8080-1] [kr.co.ldcc.lemp.hybrid.server.web.control.MessageController]  ===== Start LOGIN  >>>>> 
+INFO 2018-07-27 14:13:37,857 [http-8080-1] [kr.co.ldcc.lemp.hybrid.server.web.control.MessageController]  사용자 인증 순서 : first  - lemp  second - legacy
+INFO 2018-07-27 14:13:37,859 [http-8080-1] [kr.co.ldcc.portal.auth.service.DBB2CUserService]  ===== Start:: B2C - authenticate() : 
+INFO 2018-07-27 14:13:37,859 [http-8080-1] [kr.co.ldcc.portal.auth.service.DBB2CUserService]  End::authenticate() :  =====
+INFO 2018-07-27 14:13:37,861 [http-8080-1] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LegacyDB
+ERROR 2018-07-27 14:13:37,861 [http-8080-1] [adapter.DM0001_Adapter]  에러 발생
+org.apache.ibatis.exceptions.PersistenceException: 
+### Error querying database.  Cause: java.lang.IllegalArgumentException: Mapped Statements collection does not contain value for DM0001.1001
+### Cause: java.lang.IllegalArgumentException: Mapped Statements collection does not contain value for DM0001.1001
+	at org.apache.ibatis.exceptions.ExceptionFactory.wrapException(ExceptionFactory.java:26) ~[mybatis-3.2.7.jar:3.2.7]
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:111) ~[mybatis-3.2.7.jar:3.2.7]
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:102) ~[mybatis-3.2.7.jar:3.2.7]
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectOne(DefaultSqlSession.java:66) ~[mybatis-3.2.7.jar:3.2.7]
+	at kr.co.ldcc.lemp.adapter.db.DBAdapterImpl.selectOne(DBAdapterImpl.java:46) ~[LEMP-Adapter-1.0.jar:?]
+	at adapter.DM0001_Adapter.onProcess(DM0001_Adapter.java:45) [lemp-adapter.jar:?]
+	at kr.co.ldcc.lemp.hybrid.adapter.dispatcher.LoaderAdapterDispatcher.dispatch(LoaderAdapterDispatcher.java:83) [messageframework-adapter-common-1.0.jar:?]
+	at bizlogic.DefaultByPassBiz.process(DefaultByPassBiz.java:61) [DefaultByPassBiz.class:?]
+	at kr.co.ldcc.lemp.hybrid.server.web.service.JsonMessageService.dispacth(JsonMessageService.java:193) [messageframework-servlet-1.0.jar:?]
+	at kr.co.ldcc.lemp.hybrid.server.web.control.MessageController.legacyTR(MessageController.java:1530) [messageframework-servlet-1.0.jar:?]
+	at kr.co.ldcc.lemp.hybrid.server.web.control.MessageController.doTR(MessageController.java:1476) [messageframework-servlet-1.0.jar:?]
+	at kr.co.ldcc.lemp.hybrid.server.web.control.MessageController.processLoginJsonMessage(MessageController.java:1384) [messageframework-servlet-1.0.jar:?]
+	at kr.co.ldcc.lemp.hybrid.server.web.control.MessageController.handleJsonMessage(MessageController.java:1012) [messageframework-servlet-1.0.jar:?]
+	at kr.co.ldcc.lemp.hybrid.server.web.control.MessageController.handleMessageProcess(MessageController.java:434) [messageframework-servlet-1.0.jar:?]
+	at kr.co.ldcc.lemp.hybrid.server.web.control.MessageController.handleMessage(MessageController.java:330) [messageframework-servlet-1.0.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.6.0_45]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.6.0_45]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.6.0_45]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.6.0_45]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205) [spring-web-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:133) [spring-web-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:97) [spring-webmvc-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:827) [spring-webmvc-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:738) [spring-webmvc-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:85) [spring-webmvc-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:967) [spring-webmvc-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:901) [spring-webmvc-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:970) [spring-webmvc-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:861) [spring-webmvc-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617) [servlet-api.jar:?]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:846) [spring-webmvc-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:723) [servlet-api.jar:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290) [catalina.jar:6.0.48]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206) [catalina.jar:6.0.48]
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:81) [spring-web-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) [spring-web-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235) [catalina.jar:6.0.48]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206) [catalina.jar:6.0.48]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:197) [spring-web-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) [spring-web-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235) [catalina.jar:6.0.48]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206) [catalina.jar:6.0.48]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233) [catalina.jar:6.0.48]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191) [catalina.jar:6.0.48]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127) [catalina.jar:6.0.48]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103) [catalina.jar:6.0.48]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109) [catalina.jar:6.0.48]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293) [catalina.jar:6.0.48]
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:859) [tomcat-coyote.jar:6.0.48]
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:610) [tomcat-coyote.jar:6.0.48]
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:503) [tomcat-coyote.jar:6.0.48]
+	at java.lang.Thread.run(Unknown Source) [?:1.6.0_45]
+Caused by: java.lang.IllegalArgumentException: Mapped Statements collection does not contain value for DM0001.1001
+	at org.apache.ibatis.session.Configuration$StrictMap.get(Configuration.java:797) ~[mybatis-3.2.7.jar:3.2.7]
+	at org.apache.ibatis.session.Configuration.getMappedStatement(Configuration.java:631) ~[mybatis-3.2.7.jar:3.2.7]
+	at org.apache.ibatis.session.Configuration.getMappedStatement(Configuration.java:624) ~[mybatis-3.2.7.jar:3.2.7]
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:107) ~[mybatis-3.2.7.jar:3.2.7]
+	... 50 more
+INFO 2018-07-27 14:13:37,866 [http-8080-1] [kr.co.ldcc.lemp.hybrid.server.web.control.MessageController]  <<<<<  LOGIN End =====
+INFO 2018-07-27 14:14:48,576 [main] [kr.co.ldcc.lemp.hybrid.server.core.MessageProcessorFactory]  ============ Starting to register MessageProcessor... ==============
+INFO 2018-07-27 14:14:48,577 [main] [kr.co.ldcc.lemp.hybrid.server.core.MessageProcessorFactory]  ============ Finished to register "1" MessageProcessors as spring bean!  ==============
+INFO 2018-07-27 14:14:49,307 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Start::register()
+INFO 2018-07-27 14:14:49,311 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode DM0001 was found and registered by bean DM0001_Adapter!
+INFO 2018-07-27 14:14:49,311 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode LOGIN was found and registered by bean LOGIN_ADT!
+INFO 2018-07-27 14:14:49,311 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0004 was found and registered by bean ZZ0004_ADT_GetFileUID!
+INFO 2018-07-27 14:14:49,312 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0005 was found and registered by bean ZZ0005_ADT_DeviceActivation!
+INFO 2018-07-27 14:14:49,312 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0006 was found and registered by bean ZZ0006_ADT_Update!
+INFO 2018-07-27 14:14:49,312 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0007 was found and registered by bean ZZ0007_ADT_NoticeList!
+INFO 2018-07-27 14:14:49,312 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0008 was found and registered by bean ZZ0008_ADT_VerifyHash!
+INFO 2018-07-27 14:14:49,312 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0010 was found and registered by bean ZZ0010_ADT_GetCiperKey!
+INFO 2018-07-27 14:14:49,313 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0011 was found and registered by bean ZZ0011_ADT_KeyShare!
+INFO 2018-07-27 14:14:49,313 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  End::register
+ERROR 2018-07-27 14:14:49,510 [main] [kr.co.ldcc.lemp.hybrid.server.web.service.ServicePauseInterceptorService]  Has occur error during loading servicePauseInterceptorConfig.xml
+INFO 2018-07-27 14:14:49,516 [main] [kr.co.ldcc.lemp.journal.IntegrationJournalService]  Journal Service : true
+INFO 2018-07-27 14:14:49,717 [main] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Success to load SampleSqlMapConfig.xml
+INFO 2018-07-27 14:14:49,741 [main] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Success to load journalDB_SqlMapConfig.xml
+INFO 2018-07-27 14:14:49,877 [main] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Success to load LEMPDB_SqlMapConfig.xml
+INFO 2018-07-27 14:14:50,686 [main] [kr.co.ldcc.lemp.hybrid.server.web.control.MessageController]  New Seed : 617625838
+INFO 2018-07-27 14:14:54,795 [http-8080-2] [kr.co.ldcc.lemp.hybrid.server.web.control.MessageController]  ===== Start LOGIN  >>>>> 
+INFO 2018-07-27 14:14:54,805 [http-8080-2] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LEMPDB
+INFO 2018-07-27 14:14:54,805 [http-8080-2] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LEMPDB
+INFO 2018-07-27 14:14:55,032 [http-8080-2] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LEMPDB
+INFO 2018-07-27 14:14:55,032 [http-8080-2] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LEMPDB
+INFO 2018-07-27 14:14:55,036 [http-8080-2] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LEMPDB
+INFO 2018-07-27 14:14:55,036 [http-8080-2] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LEMPDB
+INFO 2018-07-27 14:14:55,316 [http-8080-2] [kr.co.ldcc.lemp.hybrid.server.web.control.MessageController]  TEST LICENSE!
+WARN 2018-07-27 14:14:55,326 [http-8080-2] [kr.co.ldcc.lemp.hybrid.server.web.service.SessionAwareService]  6176258380000000000  > session ID : Unknown
+INFO 2018-07-27 14:14:55,338 [http-8080-2] [kr.co.ldcc.lemp.hybrid.server.web.control.MessageController]  사용자 인증 순서 : first  - lemp  second - legacy
+INFO 2018-07-27 14:14:55,341 [http-8080-2] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LEMPDB
+INFO 2018-07-27 14:14:55,342 [http-8080-2] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LEMPDB
+INFO 2018-07-27 14:14:55,346 [http-8080-2] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LEMPDB
+INFO 2018-07-27 14:14:55,346 [http-8080-2] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LEMPDB
+INFO 2018-07-27 14:14:55,350 [http-8080-2] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LEMPDB
+INFO 2018-07-27 14:14:55,350 [http-8080-2] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LEMPDB
+INFO 2018-07-27 14:14:55,360 [http-8080-2] [kr.co.ldcc.portal.auth.service.DBB2CUserService]  ===== Start:: B2C - authenticate() : 
+INFO 2018-07-27 14:14:55,360 [http-8080-2] [kr.co.ldcc.portal.auth.service.DBB2CUserService]  End::authenticate() :  =====
+INFO 2018-07-27 14:14:55,376 [http-8080-2] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LegacyDB
+INFO 2018-07-27 14:14:55,404 [http-8080-2] [kr.co.ldcc.lemp.hybrid.server.web.control.MessageController]  <<<<<  LOGIN End =====
+INFO 2018-07-27 14:24:49,975 [smartScheduler-1] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() JournalDB
+INFO 2018-07-27 14:24:50,008 [smartScheduler-1] [kr.co.ldcc.lemp.db.dao.MyBatisDao]  SQL [journal.SQL_KEEP] batch result > Total params : 8, Commit rows : 8
+INFO 2018-07-27 15:36:58,385 [main] [kr.co.ldcc.lemp.hybrid.server.core.MessageProcessorFactory]  ============ Starting to register MessageProcessor... ==============
+INFO 2018-07-27 15:36:58,387 [main] [kr.co.ldcc.lemp.hybrid.server.core.MessageProcessorFactory]  ============ Finished to register "1" MessageProcessors as spring bean!  ==============
+INFO 2018-07-27 15:36:59,124 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Start::register()
+INFO 2018-07-27 15:36:59,127 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode DM0001 was found and registered by bean DM0001_Adapter!
+INFO 2018-07-27 15:36:59,128 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode DM0002 was found and registered by bean DM0002_Adapter!
+INFO 2018-07-27 15:36:59,128 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode LOGIN was found and registered by bean LOGIN_ADT!
+INFO 2018-07-27 15:36:59,128 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0004 was found and registered by bean ZZ0004_ADT_GetFileUID!
+INFO 2018-07-27 15:36:59,128 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0005 was found and registered by bean ZZ0005_ADT_DeviceActivation!
+INFO 2018-07-27 15:36:59,129 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0006 was found and registered by bean ZZ0006_ADT_Update!
+INFO 2018-07-27 15:36:59,129 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0007 was found and registered by bean ZZ0007_ADT_NoticeList!
+INFO 2018-07-27 15:36:59,129 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0008 was found and registered by bean ZZ0008_ADT_VerifyHash!
+INFO 2018-07-27 15:36:59,129 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0010 was found and registered by bean ZZ0010_ADT_GetCiperKey!
+INFO 2018-07-27 15:36:59,130 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0011 was found and registered by bean ZZ0011_ADT_KeyShare!
+INFO 2018-07-27 15:36:59,130 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  End::register
+ERROR 2018-07-27 15:36:59,319 [main] [kr.co.ldcc.lemp.hybrid.server.web.service.ServicePauseInterceptorService]  Has occur error during loading servicePauseInterceptorConfig.xml
+INFO 2018-07-27 15:36:59,325 [main] [kr.co.ldcc.lemp.journal.IntegrationJournalService]  Journal Service : true
+INFO 2018-07-27 15:36:59,544 [main] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Success to load SampleSqlMapConfig.xml
+INFO 2018-07-27 15:36:59,569 [main] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Success to load journalDB_SqlMapConfig.xml
+INFO 2018-07-27 15:36:59,716 [main] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Success to load LEMPDB_SqlMapConfig.xml
+INFO 2018-07-27 15:37:00,518 [main] [kr.co.ldcc.lemp.hybrid.server.web.control.MessageController]  New Seed : 617627222
+INFO 2018-07-27 15:37:05,884 [http-8080-2] [kr.co.ldcc.lemp.hybrid.server.web.control.MessageController]  ===== Start DM0002  >>>>> 
+INFO 2018-07-27 15:37:05,893 [http-8080-2] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LEMPDB
+INFO 2018-07-27 15:37:05,893 [http-8080-2] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LEMPDB
+INFO 2018-07-27 15:37:06,110 [http-8080-2] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LEMPDB
+INFO 2018-07-27 15:37:06,111 [http-8080-2] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LEMPDB
+INFO 2018-07-27 15:37:06,115 [http-8080-2] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LEMPDB
+INFO 2018-07-27 15:37:06,115 [http-8080-2] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LEMPDB
+INFO 2018-07-27 15:37:06,492 [http-8080-2] [kr.co.ldcc.lemp.hybrid.server.web.control.MessageController]  TEST LICENSE!
+INFO 2018-07-27 15:37:06,514 [http-8080-2] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LegacyDB
+INFO 2018-07-27 15:37:06,534 [http-8080-2] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LegacyDB
+ERROR 2018-07-27 15:37:06,544 [http-8080-2] [adapter.DM0002_Adapter]  에러 발생
+org.apache.ibatis.exceptions.PersistenceException: 
+### Error querying database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'A.userName' in 'field list'
+### The error may exist in file:///C:/Users/LOTTE/Desktop/jworkspace/SMART_HOME/conf/sql/MYSQL/DM0002.xml
+### The error may involve DM0002.2002-Inline
+### The error occurred while setting parameters
+### SQL: /* 2002 게시판 목록 조회*/    SELECT      A.docId,     A.title,     A.userName,     A.deptName,     A.regDate    FROM   DEMO_BOARD_TBL A INNER JOIN DEMO_USER_INFO_TBL B ON A.CREATOR_ID = B.USERID
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'A.userName' in 'field list'
+	at org.apache.ibatis.exceptions.ExceptionFactory.wrapException(ExceptionFactory.java:26) ~[mybatis-3.2.7.jar:3.2.7]
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:111) ~[mybatis-3.2.7.jar:3.2.7]
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:102) ~[mybatis-3.2.7.jar:3.2.7]
+	at kr.co.ldcc.lemp.adapter.db.DBAdapterImpl.selectList(DBAdapterImpl.java:114) ~[LEMP-Adapter-1.0.jar:?]
+	at adapter.DM0002_Adapter.onProcess(DM0002_Adapter.java:44) [lemp-adapter.jar:?]
+	at kr.co.ldcc.lemp.hybrid.adapter.dispatcher.LoaderAdapterDispatcher.dispatch(LoaderAdapterDispatcher.java:83) [messageframework-adapter-common-1.0.jar:?]
+	at bizlogic.DefaultByPassBiz.process(DefaultByPassBiz.java:61) [DefaultByPassBiz.class:?]
+	at kr.co.ldcc.lemp.hybrid.server.web.service.JsonMessageService.dispacth(JsonMessageService.java:193) [messageframework-servlet-1.0.jar:?]
+	at kr.co.ldcc.lemp.hybrid.server.web.control.MessageController.handleJsonMessage(MessageController.java:1094) [messageframework-servlet-1.0.jar:?]
+	at kr.co.ldcc.lemp.hybrid.server.web.control.MessageController.handleMessageProcess(MessageController.java:434) [messageframework-servlet-1.0.jar:?]
+	at kr.co.ldcc.lemp.hybrid.server.web.control.MessageController.handleMessage(MessageController.java:330) [messageframework-servlet-1.0.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.6.0_45]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.6.0_45]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.6.0_45]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.6.0_45]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205) [spring-web-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:133) [spring-web-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:97) [spring-webmvc-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:827) [spring-webmvc-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:738) [spring-webmvc-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:85) [spring-webmvc-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:967) [spring-webmvc-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:901) [spring-webmvc-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:970) [spring-webmvc-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:861) [spring-webmvc-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617) [servlet-api.jar:?]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:846) [spring-webmvc-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:723) [servlet-api.jar:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290) [catalina.jar:6.0.48]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206) [catalina.jar:6.0.48]
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:81) [spring-web-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) [spring-web-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235) [catalina.jar:6.0.48]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206) [catalina.jar:6.0.48]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:197) [spring-web-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) [spring-web-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235) [catalina.jar:6.0.48]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206) [catalina.jar:6.0.48]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233) [catalina.jar:6.0.48]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191) [catalina.jar:6.0.48]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127) [catalina.jar:6.0.48]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103) [catalina.jar:6.0.48]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109) [catalina.jar:6.0.48]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293) [catalina.jar:6.0.48]
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:859) [tomcat-coyote.jar:6.0.48]
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:610) [tomcat-coyote.jar:6.0.48]
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:503) [tomcat-coyote.jar:6.0.48]
+	at java.lang.Thread.run(Unknown Source) [?:1.6.0_45]
+Caused by: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'A.userName' in 'field list'
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.6.0_45]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source) ~[?:1.6.0_45]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source) ~[?:1.6.0_45]
+	at java.lang.reflect.Constructor.newInstance(Unknown Source) ~[?:1.6.0_45]
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:425) ~[mysql-connector-java-5.1.42-bin.jar:5.1.42]
+	at com.mysql.jdbc.Util.getInstance(Util.java:408) ~[mysql-connector-java-5.1.42-bin.jar:5.1.42]
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:943) ~[mysql-connector-java-5.1.42-bin.jar:5.1.42]
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3973) ~[mysql-connector-java-5.1.42-bin.jar:5.1.42]
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3909) ~[mysql-connector-java-5.1.42-bin.jar:5.1.42]
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2527) ~[mysql-connector-java-5.1.42-bin.jar:5.1.42]
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2680) ~[mysql-connector-java-5.1.42-bin.jar:5.1.42]
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2490) ~[mysql-connector-java-5.1.42-bin.jar:5.1.42]
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1858) ~[mysql-connector-java-5.1.42-bin.jar:5.1.42]
+	at com.mysql.jdbc.PreparedStatement.execute(PreparedStatement.java:1197) ~[mysql-connector-java-5.1.42-bin.jar:5.1.42]
+	at org.apache.tomcat.dbcp.dbcp.DelegatingPreparedStatement.execute(DelegatingPreparedStatement.java:172) ~[tomcat-dbcp.jar:6.0.48]
+	at org.apache.tomcat.dbcp.dbcp.DelegatingPreparedStatement.execute(DelegatingPreparedStatement.java:172) ~[tomcat-dbcp.jar:6.0.48]
+	at org.apache.ibatis.executor.statement.PreparedStatementHandler.query(PreparedStatementHandler.java:59) ~[mybatis-3.2.7.jar:3.2.7]
+	at org.apache.ibatis.executor.statement.RoutingStatementHandler.query(RoutingStatementHandler.java:73) ~[mybatis-3.2.7.jar:3.2.7]
+	at org.apache.ibatis.executor.SimpleExecutor.doQuery(SimpleExecutor.java:60) ~[mybatis-3.2.7.jar:3.2.7]
+	at org.apache.ibatis.executor.BaseExecutor.queryFromDatabase(BaseExecutor.java:267) ~[mybatis-3.2.7.jar:3.2.7]
+	at org.apache.ibatis.executor.BaseExecutor.query(BaseExecutor.java:137) ~[mybatis-3.2.7.jar:3.2.7]
+	at org.apache.ibatis.executor.CachingExecutor.query(CachingExecutor.java:96) ~[mybatis-3.2.7.jar:3.2.7]
+	at org.apache.ibatis.executor.CachingExecutor.query(CachingExecutor.java:77) ~[mybatis-3.2.7.jar:3.2.7]
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:108) ~[mybatis-3.2.7.jar:3.2.7]
+	... 46 more
+INFO 2018-07-27 15:37:06,553 [http-8080-2] [kr.co.ldcc.lemp.hybrid.server.web.control.MessageController]  <<<<<  DM0002 End =====
+INFO 2018-07-27 15:37:47,185 [http-8080-2] [kr.co.ldcc.lemp.hybrid.server.web.control.MessageController]  ===== Start DM0002  >>>>> 
+INFO 2018-07-27 15:37:47,188 [http-8080-2] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LegacyDB
+INFO 2018-07-27 15:37:47,192 [http-8080-2] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LegacyDB
+ERROR 2018-07-27 15:37:47,195 [http-8080-2] [adapter.DM0002_Adapter]  에러 발생
+org.apache.ibatis.exceptions.PersistenceException: 
+### Error querying database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'A.userName' in 'field list'
+### The error may exist in file:///C:/Users/LOTTE/Desktop/jworkspace/SMART_HOME/conf/sql/MYSQL/DM0002.xml
+### The error may involve DM0002.2002-Inline
+### The error occurred while setting parameters
+### SQL: /* 2002 게시판 목록 조회*/    SELECT      A.docId,     A.title,     A.userName,     A.deptName,     A.regDate    FROM   DEMO_BOARD_TBL A INNER JOIN DEMO_USER_INFO_TBL B ON A.CREATOR_ID = B.USERID
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'A.userName' in 'field list'
+	at org.apache.ibatis.exceptions.ExceptionFactory.wrapException(ExceptionFactory.java:26) ~[mybatis-3.2.7.jar:3.2.7]
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:111) ~[mybatis-3.2.7.jar:3.2.7]
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:102) ~[mybatis-3.2.7.jar:3.2.7]
+	at kr.co.ldcc.lemp.adapter.db.DBAdapterImpl.selectList(DBAdapterImpl.java:114) ~[LEMP-Adapter-1.0.jar:?]
+	at adapter.DM0002_Adapter.onProcess(DM0002_Adapter.java:44) [lemp-adapter.jar:?]
+	at kr.co.ldcc.lemp.hybrid.adapter.dispatcher.LoaderAdapterDispatcher.dispatch(LoaderAdapterDispatcher.java:83) [messageframework-adapter-common-1.0.jar:?]
+	at bizlogic.DefaultByPassBiz.process(DefaultByPassBiz.java:61) [DefaultByPassBiz.class:?]
+	at kr.co.ldcc.lemp.hybrid.server.web.service.JsonMessageService.dispacth(JsonMessageService.java:193) [messageframework-servlet-1.0.jar:?]
+	at kr.co.ldcc.lemp.hybrid.server.web.control.MessageController.handleJsonMessage(MessageController.java:1094) [messageframework-servlet-1.0.jar:?]
+	at kr.co.ldcc.lemp.hybrid.server.web.control.MessageController.handleMessageProcess(MessageController.java:434) [messageframework-servlet-1.0.jar:?]
+	at kr.co.ldcc.lemp.hybrid.server.web.control.MessageController.handleMessage(MessageController.java:330) [messageframework-servlet-1.0.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.6.0_45]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.6.0_45]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.6.0_45]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.6.0_45]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205) [spring-web-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:133) [spring-web-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:97) [spring-webmvc-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:827) [spring-webmvc-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:738) [spring-webmvc-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:85) [spring-webmvc-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:967) [spring-webmvc-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:901) [spring-webmvc-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:970) [spring-webmvc-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:861) [spring-webmvc-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617) [servlet-api.jar:?]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:846) [spring-webmvc-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:723) [servlet-api.jar:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290) [catalina.jar:6.0.48]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206) [catalina.jar:6.0.48]
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:81) [spring-web-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) [spring-web-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235) [catalina.jar:6.0.48]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206) [catalina.jar:6.0.48]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:197) [spring-web-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) [spring-web-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235) [catalina.jar:6.0.48]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206) [catalina.jar:6.0.48]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233) [catalina.jar:6.0.48]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191) [catalina.jar:6.0.48]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127) [catalina.jar:6.0.48]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103) [catalina.jar:6.0.48]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109) [catalina.jar:6.0.48]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293) [catalina.jar:6.0.48]
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:859) [tomcat-coyote.jar:6.0.48]
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:610) [tomcat-coyote.jar:6.0.48]
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:503) [tomcat-coyote.jar:6.0.48]
+	at java.lang.Thread.run(Unknown Source) [?:1.6.0_45]
+Caused by: com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Unknown column 'A.userName' in 'field list'
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:1.6.0_45]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source) ~[?:1.6.0_45]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source) ~[?:1.6.0_45]
+	at java.lang.reflect.Constructor.newInstance(Unknown Source) ~[?:1.6.0_45]
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:425) ~[mysql-connector-java-5.1.42-bin.jar:5.1.42]
+	at com.mysql.jdbc.Util.getInstance(Util.java:408) ~[mysql-connector-java-5.1.42-bin.jar:5.1.42]
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:943) ~[mysql-connector-java-5.1.42-bin.jar:5.1.42]
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3973) ~[mysql-connector-java-5.1.42-bin.jar:5.1.42]
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3909) ~[mysql-connector-java-5.1.42-bin.jar:5.1.42]
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2527) ~[mysql-connector-java-5.1.42-bin.jar:5.1.42]
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2680) ~[mysql-connector-java-5.1.42-bin.jar:5.1.42]
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2490) ~[mysql-connector-java-5.1.42-bin.jar:5.1.42]
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1858) ~[mysql-connector-java-5.1.42-bin.jar:5.1.42]
+	at com.mysql.jdbc.PreparedStatement.execute(PreparedStatement.java:1197) ~[mysql-connector-java-5.1.42-bin.jar:5.1.42]
+	at org.apache.tomcat.dbcp.dbcp.DelegatingPreparedStatement.execute(DelegatingPreparedStatement.java:172) ~[tomcat-dbcp.jar:6.0.48]
+	at org.apache.tomcat.dbcp.dbcp.DelegatingPreparedStatement.execute(DelegatingPreparedStatement.java:172) ~[tomcat-dbcp.jar:6.0.48]
+	at org.apache.ibatis.executor.statement.PreparedStatementHandler.query(PreparedStatementHandler.java:59) ~[mybatis-3.2.7.jar:3.2.7]
+	at org.apache.ibatis.executor.statement.RoutingStatementHandler.query(RoutingStatementHandler.java:73) ~[mybatis-3.2.7.jar:3.2.7]
+	at org.apache.ibatis.executor.SimpleExecutor.doQuery(SimpleExecutor.java:60) ~[mybatis-3.2.7.jar:3.2.7]
+	at org.apache.ibatis.executor.BaseExecutor.queryFromDatabase(BaseExecutor.java:267) ~[mybatis-3.2.7.jar:3.2.7]
+	at org.apache.ibatis.executor.BaseExecutor.query(BaseExecutor.java:137) ~[mybatis-3.2.7.jar:3.2.7]
+	at org.apache.ibatis.executor.CachingExecutor.query(CachingExecutor.java:96) ~[mybatis-3.2.7.jar:3.2.7]
+	at org.apache.ibatis.executor.CachingExecutor.query(CachingExecutor.java:77) ~[mybatis-3.2.7.jar:3.2.7]
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:108) ~[mybatis-3.2.7.jar:3.2.7]
+	... 46 more
+INFO 2018-07-27 15:37:47,200 [http-8080-2] [kr.co.ldcc.lemp.hybrid.server.web.control.MessageController]  <<<<<  DM0002 End =====
+INFO 2018-07-27 15:40:38,187 [main] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() JournalDB
+INFO 2018-07-27 15:40:38,217 [main] [kr.co.ldcc.lemp.db.dao.MyBatisDao]  SQL [journal.SQL_KEEP] batch result > Total params : 8, Commit rows : 8
+INFO 2018-07-27 15:40:44,570 [main] [kr.co.ldcc.lemp.hybrid.server.core.MessageProcessorFactory]  ============ Starting to register MessageProcessor... ==============
+INFO 2018-07-27 15:40:44,572 [main] [kr.co.ldcc.lemp.hybrid.server.core.MessageProcessorFactory]  ============ Finished to register "1" MessageProcessors as spring bean!  ==============
+INFO 2018-07-27 15:40:45,305 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Start::register()
+INFO 2018-07-27 15:40:45,309 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode DM0001 was found and registered by bean DM0001_Adapter!
+INFO 2018-07-27 15:40:45,309 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode DM0002 was found and registered by bean DM0002_Adapter!
+INFO 2018-07-27 15:40:45,309 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode LOGIN was found and registered by bean LOGIN_ADT!
+INFO 2018-07-27 15:40:45,311 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0004 was found and registered by bean ZZ0004_ADT_GetFileUID!
+INFO 2018-07-27 15:40:45,311 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0005 was found and registered by bean ZZ0005_ADT_DeviceActivation!
+INFO 2018-07-27 15:40:45,311 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0006 was found and registered by bean ZZ0006_ADT_Update!
+INFO 2018-07-27 15:40:45,312 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0007 was found and registered by bean ZZ0007_ADT_NoticeList!
+INFO 2018-07-27 15:40:45,312 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0008 was found and registered by bean ZZ0008_ADT_VerifyHash!
+INFO 2018-07-27 15:40:45,312 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0010 was found and registered by bean ZZ0010_ADT_GetCiperKey!
+INFO 2018-07-27 15:40:45,313 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0011 was found and registered by bean ZZ0011_ADT_KeyShare!
+INFO 2018-07-27 15:40:45,313 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  End::register
+ERROR 2018-07-27 15:40:45,503 [main] [kr.co.ldcc.lemp.hybrid.server.web.service.ServicePauseInterceptorService]  Has occur error during loading servicePauseInterceptorConfig.xml
+INFO 2018-07-27 15:40:45,509 [main] [kr.co.ldcc.lemp.journal.IntegrationJournalService]  Journal Service : true
+INFO 2018-07-27 15:40:45,726 [main] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Success to load SampleSqlMapConfig.xml
+INFO 2018-07-27 15:40:45,750 [main] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Success to load journalDB_SqlMapConfig.xml
+INFO 2018-07-27 15:40:45,887 [main] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Success to load LEMPDB_SqlMapConfig.xml
+INFO 2018-07-27 15:40:46,689 [main] [kr.co.ldcc.lemp.hybrid.server.web.control.MessageController]  New Seed : 617627265
+INFO 2018-07-27 15:40:50,859 [http-8080-2] [kr.co.ldcc.lemp.hybrid.server.web.control.MessageController]  ===== Start DM0002  >>>>> 
+INFO 2018-07-27 15:40:50,868 [http-8080-2] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LEMPDB
+INFO 2018-07-27 15:40:50,868 [http-8080-2] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LEMPDB
+INFO 2018-07-27 15:40:51,087 [http-8080-2] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LEMPDB
+INFO 2018-07-27 15:40:51,088 [http-8080-2] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LEMPDB
+INFO 2018-07-27 15:40:51,092 [http-8080-2] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LEMPDB
+INFO 2018-07-27 15:40:51,092 [http-8080-2] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LEMPDB
+INFO 2018-07-27 15:40:51,371 [http-8080-2] [kr.co.ldcc.lemp.hybrid.server.web.control.MessageController]  TEST LICENSE!
+INFO 2018-07-27 15:40:51,392 [http-8080-2] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LegacyDB
+INFO 2018-07-27 15:40:51,416 [http-8080-2] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LegacyDB
+INFO 2018-07-27 15:40:51,449 [http-8080-2] [kr.co.ldcc.lemp.hybrid.server.web.control.MessageController]  <<<<<  DM0002 End =====
+INFO 2018-07-27 15:43:17,573 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() JournalDB
+INFO 2018-07-27 15:43:17,594 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.db.dao.MyBatisDao]  SQL [journal.SQL_KEEP] batch result > Total params : 4, Commit rows : 4
+INFO 2018-07-27 15:50:30,413 [main] [kr.co.ldcc.lemp.hybrid.server.core.MessageProcessorFactory]  ============ Starting to register MessageProcessor... ==============
+INFO 2018-07-27 15:50:30,415 [main] [kr.co.ldcc.lemp.hybrid.server.core.MessageProcessorFactory]  ============ Finished to register "1" MessageProcessors as spring bean!  ==============
+INFO 2018-07-27 15:50:31,176 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Start::register()
+INFO 2018-07-27 15:50:31,180 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode DM0001 was found and registered by bean DM0001_Adapter!
+INFO 2018-07-27 15:50:31,180 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode DM0002 was found and registered by bean DM0002_Adapter!
+INFO 2018-07-27 15:50:31,180 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode DM0003 was found and registered by bean DM0003_Adapter!
+INFO 2018-07-27 15:50:31,181 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode LOGIN was found and registered by bean LOGIN_ADT!
+INFO 2018-07-27 15:50:31,181 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0004 was found and registered by bean ZZ0004_ADT_GetFileUID!
+INFO 2018-07-27 15:50:31,181 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0005 was found and registered by bean ZZ0005_ADT_DeviceActivation!
+INFO 2018-07-27 15:50:31,181 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0006 was found and registered by bean ZZ0006_ADT_Update!
+INFO 2018-07-27 15:50:31,182 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0007 was found and registered by bean ZZ0007_ADT_NoticeList!
+INFO 2018-07-27 15:50:31,182 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0008 was found and registered by bean ZZ0008_ADT_VerifyHash!
+INFO 2018-07-27 15:50:31,182 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0010 was found and registered by bean ZZ0010_ADT_GetCiperKey!
+INFO 2018-07-27 15:50:31,182 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0011 was found and registered by bean ZZ0011_ADT_KeyShare!
+INFO 2018-07-27 15:50:31,182 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  End::register
+ERROR 2018-07-27 15:50:31,374 [main] [kr.co.ldcc.lemp.hybrid.server.web.service.ServicePauseInterceptorService]  Has occur error during loading servicePauseInterceptorConfig.xml
+INFO 2018-07-27 15:50:31,381 [main] [kr.co.ldcc.lemp.journal.IntegrationJournalService]  Journal Service : true
+INFO 2018-07-27 15:50:31,633 [main] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Success to load SampleSqlMapConfig.xml
+INFO 2018-07-27 15:50:31,656 [main] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Success to load journalDB_SqlMapConfig.xml
+INFO 2018-07-27 15:50:31,781 [main] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Success to load LEMPDB_SqlMapConfig.xml
+INFO 2018-07-27 15:50:32,586 [main] [kr.co.ldcc.lemp.hybrid.server.web.control.MessageController]  New Seed : 617627434
+INFO 2018-07-27 15:50:38,350 [http-8080-2] [kr.co.ldcc.lemp.hybrid.server.web.control.MessageController]  ===== Start DM0003  >>>>> 
+INFO 2018-07-27 15:50:38,360 [http-8080-2] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LEMPDB
+INFO 2018-07-27 15:50:38,360 [http-8080-2] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LEMPDB
+INFO 2018-07-27 15:50:38,570 [http-8080-2] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LEMPDB
+INFO 2018-07-27 15:50:38,570 [http-8080-2] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LEMPDB
+INFO 2018-07-27 15:50:38,574 [http-8080-2] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LEMPDB
+INFO 2018-07-27 15:50:38,574 [http-8080-2] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LEMPDB
+INFO 2018-07-27 15:50:38,853 [http-8080-2] [kr.co.ldcc.lemp.hybrid.server.web.control.MessageController]  TEST LICENSE!
+INFO 2018-07-27 15:50:38,874 [http-8080-2] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LegacyDB
+INFO 2018-07-27 15:50:38,902 [http-8080-2] [kr.co.ldcc.lemp.hybrid.server.web.control.MessageController]  <<<<<  DM0003 End =====
+INFO 2018-07-27 15:56:14,425 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() JournalDB
+INFO 2018-07-27 15:56:14,446 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.db.dao.MyBatisDao]  SQL [journal.SQL_KEEP] batch result > Total params : 4, Commit rows : 4
+INFO 2018-07-27 15:56:20,697 [main] [kr.co.ldcc.lemp.hybrid.server.core.MessageProcessorFactory]  ============ Starting to register MessageProcessor... ==============
+INFO 2018-07-27 15:56:20,698 [main] [kr.co.ldcc.lemp.hybrid.server.core.MessageProcessorFactory]  ============ Finished to register "1" MessageProcessors as spring bean!  ==============
+INFO 2018-07-27 15:56:21,453 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Start::register()
+INFO 2018-07-27 15:56:21,457 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode DM0001 was found and registered by bean DM0001_Adapter!
+INFO 2018-07-27 15:56:21,457 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode DM0002 was found and registered by bean DM0002_Adapter!
+INFO 2018-07-27 15:56:21,457 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode DM0003 was found and registered by bean DM0003_Adapter!
+INFO 2018-07-27 15:56:21,458 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode LOGIN was found and registered by bean LOGIN_ADT!
+INFO 2018-07-27 15:56:21,458 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0004 was found and registered by bean ZZ0004_ADT_GetFileUID!
+INFO 2018-07-27 15:56:21,458 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0005 was found and registered by bean ZZ0005_ADT_DeviceActivation!
+INFO 2018-07-27 15:56:21,458 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0006 was found and registered by bean ZZ0006_ADT_Update!
+INFO 2018-07-27 15:56:21,458 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0007 was found and registered by bean ZZ0007_ADT_NoticeList!
+INFO 2018-07-27 15:56:21,458 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0008 was found and registered by bean ZZ0008_ADT_VerifyHash!
+INFO 2018-07-27 15:56:21,459 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0010 was found and registered by bean ZZ0010_ADT_GetCiperKey!
+INFO 2018-07-27 15:56:21,459 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0011 was found and registered by bean ZZ0011_ADT_KeyShare!
+INFO 2018-07-27 15:56:21,459 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  End::register
+ERROR 2018-07-27 15:56:21,645 [main] [kr.co.ldcc.lemp.hybrid.server.web.service.ServicePauseInterceptorService]  Has occur error during loading servicePauseInterceptorConfig.xml
+INFO 2018-07-27 15:56:21,652 [main] [kr.co.ldcc.lemp.journal.IntegrationJournalService]  Journal Service : true
+INFO 2018-07-27 15:56:21,893 [main] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Success to load SampleSqlMapConfig.xml
+INFO 2018-07-27 15:56:21,916 [main] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Success to load journalDB_SqlMapConfig.xml
+INFO 2018-07-27 15:56:22,043 [main] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Success to load LEMPDB_SqlMapConfig.xml
+INFO 2018-07-27 15:56:22,840 [main] [kr.co.ldcc.lemp.hybrid.server.web.control.MessageController]  New Seed : 617627528
+INFO 2018-07-27 15:56:30,308 [http-8080-2] [kr.co.ldcc.lemp.hybrid.server.web.control.MessageController]  ===== Start DM0003  >>>>> 
+INFO 2018-07-27 15:56:30,318 [http-8080-2] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LEMPDB
+INFO 2018-07-27 15:56:30,318 [http-8080-2] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LEMPDB
+INFO 2018-07-27 15:56:30,516 [http-8080-2] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LEMPDB
+INFO 2018-07-27 15:56:30,516 [http-8080-2] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LEMPDB
+INFO 2018-07-27 15:56:30,520 [http-8080-2] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LEMPDB
+INFO 2018-07-27 15:56:30,520 [http-8080-2] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LEMPDB
+INFO 2018-07-27 15:56:30,790 [http-8080-2] [kr.co.ldcc.lemp.hybrid.server.web.control.MessageController]  TEST LICENSE!
+INFO 2018-07-27 15:56:31,037 [http-8080-2] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LegacyDB
+INFO 2018-07-27 15:56:31,067 [http-8080-2] [kr.co.ldcc.lemp.hybrid.server.web.control.MessageController]  <<<<<  DM0003 End =====
+INFO 2018-07-27 16:00:44,166 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() JournalDB
+INFO 2018-07-27 16:00:44,184 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.db.dao.MyBatisDao]  SQL [journal.SQL_KEEP] batch result > Total params : 4, Commit rows : 4
+INFO 2018-07-27 16:00:47,200 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.hybrid.server.core.MessageProcessorFactory]  ============ Starting to register MessageProcessor... ==============
+INFO 2018-07-27 16:00:47,202 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.hybrid.server.core.MessageProcessorFactory]  ============ Finished to register "1" MessageProcessors as spring bean!  ==============
+INFO 2018-07-27 16:00:47,812 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Start::register()
+INFO 2018-07-27 16:00:47,815 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode DM0001 was found and registered by bean DM0001_Adapter!
+INFO 2018-07-27 16:00:47,815 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode DM0002 was found and registered by bean DM0002_Adapter!
+INFO 2018-07-27 16:00:47,816 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode DM0003 was found and registered by bean DM0003_Adapter!
+INFO 2018-07-27 16:00:47,816 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode LOGIN was found and registered by bean LOGIN_ADT!
+INFO 2018-07-27 16:00:47,816 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0004 was found and registered by bean ZZ0004_ADT_GetFileUID!
+INFO 2018-07-27 16:00:47,816 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0005 was found and registered by bean ZZ0005_ADT_DeviceActivation!
+INFO 2018-07-27 16:00:47,816 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0006 was found and registered by bean ZZ0006_ADT_Update!
+INFO 2018-07-27 16:00:47,817 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0007 was found and registered by bean ZZ0007_ADT_NoticeList!
+INFO 2018-07-27 16:00:47,817 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0008 was found and registered by bean ZZ0008_ADT_VerifyHash!
+INFO 2018-07-27 16:00:47,817 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0010 was found and registered by bean ZZ0010_ADT_GetCiperKey!
+INFO 2018-07-27 16:00:47,817 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0011 was found and registered by bean ZZ0011_ADT_KeyShare!
+INFO 2018-07-27 16:00:47,817 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  End::register
+ERROR 2018-07-27 16:00:47,991 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.hybrid.server.web.service.ServicePauseInterceptorService]  Has occur error during loading servicePauseInterceptorConfig.xml
+INFO 2018-07-27 16:00:47,996 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.journal.IntegrationJournalService]  Journal Service : true
+INFO 2018-07-27 16:00:48,192 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Success to load SampleSqlMapConfig.xml
+INFO 2018-07-27 16:00:48,213 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Success to load journalDB_SqlMapConfig.xml
+INFO 2018-07-27 16:00:48,332 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Success to load LEMPDB_SqlMapConfig.xml
+INFO 2018-07-27 16:00:48,999 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.hybrid.server.web.control.MessageController]  New Seed : 617627655
+INFO 2018-07-27 16:01:53,405 [main] [kr.co.ldcc.lemp.hybrid.server.core.MessageProcessorFactory]  ============ Starting to register MessageProcessor... ==============
+INFO 2018-07-27 16:01:53,407 [main] [kr.co.ldcc.lemp.hybrid.server.core.MessageProcessorFactory]  ============ Finished to register "1" MessageProcessors as spring bean!  ==============
+INFO 2018-07-27 16:01:54,182 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Start::register()
+INFO 2018-07-27 16:01:54,186 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode DM0001 was found and registered by bean DM0001_Adapter!
+INFO 2018-07-27 16:01:54,186 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode DM0002 was found and registered by bean DM0002_Adapter!
+INFO 2018-07-27 16:01:54,186 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode DM0003 was found and registered by bean DM0003_Adapter!
+INFO 2018-07-27 16:01:54,187 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode LOGIN was found and registered by bean LOGIN_ADT!
+INFO 2018-07-27 16:01:54,187 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0004 was found and registered by bean ZZ0004_ADT_GetFileUID!
+INFO 2018-07-27 16:01:54,187 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0005 was found and registered by bean ZZ0005_ADT_DeviceActivation!
+INFO 2018-07-27 16:01:54,187 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0006 was found and registered by bean ZZ0006_ADT_Update!
+INFO 2018-07-27 16:01:54,188 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0007 was found and registered by bean ZZ0007_ADT_NoticeList!
+INFO 2018-07-27 16:01:54,188 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0008 was found and registered by bean ZZ0008_ADT_VerifyHash!
+INFO 2018-07-27 16:01:54,188 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0010 was found and registered by bean ZZ0010_ADT_GetCiperKey!
+INFO 2018-07-27 16:01:54,188 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0011 was found and registered by bean ZZ0011_ADT_KeyShare!
+INFO 2018-07-27 16:01:54,188 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  End::register
+ERROR 2018-07-27 16:01:54,379 [main] [kr.co.ldcc.lemp.hybrid.server.web.service.ServicePauseInterceptorService]  Has occur error during loading servicePauseInterceptorConfig.xml
+INFO 2018-07-27 16:01:54,386 [main] [kr.co.ldcc.lemp.journal.IntegrationJournalService]  Journal Service : true
+INFO 2018-07-27 16:01:54,632 [main] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Success to load SampleSqlMapConfig.xml
+INFO 2018-07-27 16:01:54,655 [main] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Success to load journalDB_SqlMapConfig.xml
+INFO 2018-07-27 16:01:54,796 [main] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Success to load LEMPDB_SqlMapConfig.xml
+INFO 2018-07-27 16:01:55,626 [main] [kr.co.ldcc.lemp.hybrid.server.web.control.MessageController]  New Seed : 617627673
+INFO 2018-07-27 16:01:55,939 [http-8080-2] [kr.co.ldcc.lemp.hybrid.server.web.control.MessageController]  ===== Start DM0003  >>>>> 
+INFO 2018-07-27 16:01:55,949 [http-8080-2] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LEMPDB
+INFO 2018-07-27 16:01:55,949 [http-8080-2] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LEMPDB
+INFO 2018-07-27 16:01:56,215 [http-8080-2] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LEMPDB
+INFO 2018-07-27 16:01:56,215 [http-8080-2] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LEMPDB
+INFO 2018-07-27 16:01:56,219 [http-8080-2] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LEMPDB
+INFO 2018-07-27 16:01:56,220 [http-8080-2] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LEMPDB
+INFO 2018-07-27 16:01:56,581 [http-8080-2] [kr.co.ldcc.lemp.hybrid.server.web.control.MessageController]  TEST LICENSE!
+INFO 2018-07-27 16:01:56,860 [http-8080-2] [kr.co.ldcc.lemp.common.config.SmartConfig]  SmartConfig : C:/Users/LOTTE/Desktop/jworkspace/SMART_HOME\conf\properties\lemp.properties
+INFO 2018-07-27 16:01:56,873 [http-8080-2] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LegacyDB
+INFO 2018-07-27 16:01:56,902 [http-8080-2] [kr.co.ldcc.lemp.hybrid.server.web.control.MessageController]  <<<<<  DM0003 End =====
+INFO 2018-07-27 16:01:59,375 [http-8080-2] [kr.co.ldcc.lemp.hybrid.server.web.control.MessageController]  ===== Start DM0003  >>>>> 
+INFO 2018-07-27 16:01:59,384 [http-8080-2] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LegacyDB
+INFO 2018-07-27 16:01:59,392 [http-8080-2] [kr.co.ldcc.lemp.hybrid.server.web.control.MessageController]  <<<<<  DM0003 End =====
+INFO 2018-07-27 16:02:11,839 [http-8080-2] [kr.co.ldcc.lemp.hybrid.server.web.control.MessageController]  ===== Start DM0003  >>>>> 
+INFO 2018-07-27 16:02:11,852 [http-8080-2] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LegacyDB
+INFO 2018-07-27 16:02:11,860 [http-8080-2] [kr.co.ldcc.lemp.hybrid.server.web.control.MessageController]  <<<<<  DM0003 End =====
+INFO 2018-07-27 16:11:54,898 [smartScheduler-1] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() JournalDB
+INFO 2018-07-27 16:11:54,944 [smartScheduler-1] [kr.co.ldcc.lemp.db.dao.MyBatisDao]  SQL [journal.SQL_KEEP] batch result > Total params : 12, Commit rows : 12
+INFO 2018-07-27 16:25:00,835 [main] [kr.co.ldcc.lemp.hybrid.server.core.MessageProcessorFactory]  ============ Starting to register MessageProcessor... ==============
+INFO 2018-07-27 16:25:00,837 [main] [kr.co.ldcc.lemp.hybrid.server.core.MessageProcessorFactory]  ============ Finished to register "1" MessageProcessors as spring bean!  ==============
+INFO 2018-07-27 16:25:01,591 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Start::register()
+INFO 2018-07-27 16:25:01,595 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode DM0001 was found and registered by bean DM0001_Adapter!
+INFO 2018-07-27 16:25:01,595 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode DM0002 was found and registered by bean DM0002_Adapter!
+INFO 2018-07-27 16:25:01,595 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode DM0003 was found and registered by bean DM0003_Adapter!
+INFO 2018-07-27 16:25:01,595 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode DM0006 was found and registered by bean DM0006_Adapter!
+INFO 2018-07-27 16:25:01,595 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode LOGIN was found and registered by bean LOGIN_ADT!
+INFO 2018-07-27 16:25:01,596 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0004 was found and registered by bean ZZ0004_ADT_GetFileUID!
+INFO 2018-07-27 16:25:01,596 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0005 was found and registered by bean ZZ0005_ADT_DeviceActivation!
+INFO 2018-07-27 16:25:01,596 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0006 was found and registered by bean ZZ0006_ADT_Update!
+INFO 2018-07-27 16:25:01,596 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0007 was found and registered by bean ZZ0007_ADT_NoticeList!
+INFO 2018-07-27 16:25:01,596 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0008 was found and registered by bean ZZ0008_ADT_VerifyHash!
+INFO 2018-07-27 16:25:01,597 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0010 was found and registered by bean ZZ0010_ADT_GetCiperKey!
+INFO 2018-07-27 16:25:01,597 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0011 was found and registered by bean ZZ0011_ADT_KeyShare!
+INFO 2018-07-27 16:25:01,597 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  End::register
+ERROR 2018-07-27 16:25:01,779 [main] [kr.co.ldcc.lemp.hybrid.server.web.service.ServicePauseInterceptorService]  Has occur error during loading servicePauseInterceptorConfig.xml
+INFO 2018-07-27 16:25:01,786 [main] [kr.co.ldcc.lemp.journal.IntegrationJournalService]  Journal Service : true
+INFO 2018-07-27 16:25:02,035 [main] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Success to load SampleSqlMapConfig.xml
+INFO 2018-07-27 16:25:02,059 [main] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Success to load journalDB_SqlMapConfig.xml
+INFO 2018-07-27 16:25:02,191 [main] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Success to load LEMPDB_SqlMapConfig.xml
+INFO 2018-07-27 16:25:02,977 [main] [kr.co.ldcc.lemp.hybrid.server.web.control.MessageController]  New Seed : 617628049
+INFO 2018-07-27 16:25:13,454 [http-8080-2] [kr.co.ldcc.lemp.hybrid.server.web.control.MessageController]  ===== Start DM0006  >>>>> 
+INFO 2018-07-27 16:25:13,462 [http-8080-2] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LEMPDB
+INFO 2018-07-27 16:25:13,462 [http-8080-2] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LEMPDB
+INFO 2018-07-27 16:25:13,679 [http-8080-2] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LEMPDB
+INFO 2018-07-27 16:25:13,680 [http-8080-2] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LEMPDB
+INFO 2018-07-27 16:25:13,684 [http-8080-2] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LEMPDB
+INFO 2018-07-27 16:25:13,684 [http-8080-2] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LEMPDB
+INFO 2018-07-27 16:25:13,957 [http-8080-2] [kr.co.ldcc.lemp.hybrid.server.web.control.MessageController]  TEST LICENSE!
+INFO 2018-07-27 16:25:13,978 [http-8080-2] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LegacyDB
+ERROR 2018-07-27 16:25:14,008 [http-8080-2] [adapter.DM0006_Adapter]  에러 발생
+java.lang.IllegalArgumentException: No serializer found for class model.DM0006.DM0006Response_Body and no properties discovered to create BeanSerializer (to avoid exception, disable SerializationFeature.FAIL_ON_EMPTY_BEANS) ) (through reference chain: model.DM0006.DM0006Response["body"])
+	at com.fasterxml.jackson.databind.ObjectMapper.valueToTree(ObjectMapper.java:2573) ~[jackson-databind-2.7.3.jar:2.7.3]
+	at model.DM0006.DM0006Response.toJsonNode(DM0006Response.java:55) ~[lemp-model.jar:?]
+	at adapter.DM0006_Adapter.onProcess(DM0006_Adapter.java:53) [lemp-adapter.jar:?]
+	at kr.co.ldcc.lemp.hybrid.adapter.dispatcher.LoaderAdapterDispatcher.dispatch(LoaderAdapterDispatcher.java:83) [messageframework-adapter-common-1.0.jar:?]
+	at bizlogic.DefaultByPassBiz.process(DefaultByPassBiz.java:61) [DefaultByPassBiz.class:?]
+	at kr.co.ldcc.lemp.hybrid.server.web.service.JsonMessageService.dispacth(JsonMessageService.java:193) [messageframework-servlet-1.0.jar:?]
+	at kr.co.ldcc.lemp.hybrid.server.web.control.MessageController.handleJsonMessage(MessageController.java:1094) [messageframework-servlet-1.0.jar:?]
+	at kr.co.ldcc.lemp.hybrid.server.web.control.MessageController.handleMessageProcess(MessageController.java:434) [messageframework-servlet-1.0.jar:?]
+	at kr.co.ldcc.lemp.hybrid.server.web.control.MessageController.handleMessage(MessageController.java:330) [messageframework-servlet-1.0.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.6.0_45]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.6.0_45]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.6.0_45]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.6.0_45]
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205) [spring-web-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:133) [spring-web-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:97) [spring-webmvc-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:827) [spring-webmvc-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:738) [spring-webmvc-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:85) [spring-webmvc-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:967) [spring-webmvc-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:901) [spring-webmvc-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:970) [spring-webmvc-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:861) [spring-webmvc-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:617) [servlet-api.jar:?]
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:846) [spring-webmvc-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:723) [servlet-api.jar:?]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:290) [catalina.jar:6.0.48]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206) [catalina.jar:6.0.48]
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:81) [spring-web-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) [spring-web-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235) [catalina.jar:6.0.48]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206) [catalina.jar:6.0.48]
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:197) [spring-web-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107) [spring-web-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:235) [catalina.jar:6.0.48]
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:206) [catalina.jar:6.0.48]
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:233) [catalina.jar:6.0.48]
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:191) [catalina.jar:6.0.48]
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:127) [catalina.jar:6.0.48]
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:103) [catalina.jar:6.0.48]
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:109) [catalina.jar:6.0.48]
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:293) [catalina.jar:6.0.48]
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:859) [tomcat-coyote.jar:6.0.48]
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:610) [tomcat-coyote.jar:6.0.48]
+	at org.apache.tomcat.util.net.JIoEndpoint$Worker.run(JIoEndpoint.java:503) [tomcat-coyote.jar:6.0.48]
+	at java.lang.Thread.run(Unknown Source) [?:1.6.0_45]
+Caused by: com.fasterxml.jackson.databind.JsonMappingException: No serializer found for class model.DM0006.DM0006Response_Body and no properties discovered to create BeanSerializer (to avoid exception, disable SerializationFeature.FAIL_ON_EMPTY_BEANS) ) (through reference chain: model.DM0006.DM0006Response["body"])
+	at com.fasterxml.jackson.databind.JsonMappingException.from(JsonMappingException.java:230) ~[jackson-databind-2.7.3.jar:2.7.3]
+	at com.fasterxml.jackson.databind.ser.impl.UnknownSerializer.failForEmpty(UnknownSerializer.java:68) ~[jackson-databind-2.7.3.jar:2.7.3]
+	at com.fasterxml.jackson.databind.ser.impl.UnknownSerializer.serialize(UnknownSerializer.java:32) ~[jackson-databind-2.7.3.jar:2.7.3]
+	at com.fasterxml.jackson.databind.ser.BeanPropertyWriter.serializeAsField(BeanPropertyWriter.java:672) ~[jackson-databind-2.7.3.jar:2.7.3]
+	at com.fasterxml.jackson.databind.ser.std.BeanSerializerBase.serializeFields(BeanSerializerBase.java:678) ~[jackson-databind-2.7.3.jar:2.7.3]
+	at com.fasterxml.jackson.databind.ser.BeanSerializer.serialize(BeanSerializer.java:157) ~[jackson-databind-2.7.3.jar:2.7.3]
+	at com.fasterxml.jackson.databind.ser.DefaultSerializerProvider.serializeValue(DefaultSerializerProvider.java:130) ~[jackson-databind-2.7.3.jar:2.7.3]
+	at com.fasterxml.jackson.databind.ObjectMapper.writeValue(ObjectMapper.java:2436) ~[jackson-databind-2.7.3.jar:2.7.3]
+	at com.fasterxml.jackson.databind.ObjectMapper.valueToTree(ObjectMapper.java:2568) ~[jackson-databind-2.7.3.jar:2.7.3]
+	... 45 more
+INFO 2018-07-27 16:25:14,015 [http-8080-2] [kr.co.ldcc.lemp.hybrid.server.web.control.MessageController]  <<<<<  DM0006 End =====
+INFO 2018-07-27 16:27:41,418 [main] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() JournalDB
+INFO 2018-07-27 16:27:41,443 [main] [kr.co.ldcc.lemp.db.dao.MyBatisDao]  SQL [journal.SQL_KEEP] batch result > Total params : 4, Commit rows : 4
+INFO 2018-07-27 16:27:48,054 [main] [kr.co.ldcc.lemp.hybrid.server.core.MessageProcessorFactory]  ============ Starting to register MessageProcessor... ==============
+INFO 2018-07-27 16:27:48,055 [main] [kr.co.ldcc.lemp.hybrid.server.core.MessageProcessorFactory]  ============ Finished to register "1" MessageProcessors as spring bean!  ==============
+INFO 2018-07-27 16:27:48,805 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Start::register()
+INFO 2018-07-27 16:27:48,809 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode DM0001 was found and registered by bean DM0001_Adapter!
+INFO 2018-07-27 16:27:48,809 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode DM0002 was found and registered by bean DM0002_Adapter!
+INFO 2018-07-27 16:27:48,809 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode DM0003 was found and registered by bean DM0003_Adapter!
+INFO 2018-07-27 16:27:48,809 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode DM0006 was found and registered by bean DM0006_Adapter!
+INFO 2018-07-27 16:27:48,809 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode LOGIN was found and registered by bean LOGIN_ADT!
+INFO 2018-07-27 16:27:48,810 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0004 was found and registered by bean ZZ0004_ADT_GetFileUID!
+INFO 2018-07-27 16:27:48,810 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0005 was found and registered by bean ZZ0005_ADT_DeviceActivation!
+INFO 2018-07-27 16:27:48,810 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0006 was found and registered by bean ZZ0006_ADT_Update!
+INFO 2018-07-27 16:27:48,810 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0007 was found and registered by bean ZZ0007_ADT_NoticeList!
+INFO 2018-07-27 16:27:48,810 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0008 was found and registered by bean ZZ0008_ADT_VerifyHash!
+INFO 2018-07-27 16:27:48,811 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0010 was found and registered by bean ZZ0010_ADT_GetCiperKey!
+INFO 2018-07-27 16:27:48,811 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0011 was found and registered by bean ZZ0011_ADT_KeyShare!
+INFO 2018-07-27 16:27:48,811 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  End::register
+ERROR 2018-07-27 16:27:48,994 [main] [kr.co.ldcc.lemp.hybrid.server.web.service.ServicePauseInterceptorService]  Has occur error during loading servicePauseInterceptorConfig.xml
+INFO 2018-07-27 16:27:49,002 [main] [kr.co.ldcc.lemp.journal.IntegrationJournalService]  Journal Service : true
+INFO 2018-07-27 16:27:49,251 [main] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Success to load SampleSqlMapConfig.xml
+INFO 2018-07-27 16:27:49,274 [main] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Success to load journalDB_SqlMapConfig.xml
+INFO 2018-07-27 16:27:49,403 [main] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Success to load LEMPDB_SqlMapConfig.xml
+INFO 2018-07-27 16:27:50,206 [main] [kr.co.ldcc.lemp.hybrid.server.web.control.MessageController]  New Seed : 617628094
+INFO 2018-07-27 16:27:54,846 [http-8080-2] [kr.co.ldcc.lemp.hybrid.server.web.control.MessageController]  ===== Start DM0006  >>>>> 
+INFO 2018-07-27 16:27:54,854 [http-8080-2] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LEMPDB
+INFO 2018-07-27 16:27:54,855 [http-8080-2] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LEMPDB
+INFO 2018-07-27 16:27:55,064 [http-8080-2] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LEMPDB
+INFO 2018-07-27 16:27:55,064 [http-8080-2] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LEMPDB
+INFO 2018-07-27 16:27:55,071 [http-8080-2] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LEMPDB
+INFO 2018-07-27 16:27:55,071 [http-8080-2] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LEMPDB
+INFO 2018-07-27 16:27:55,348 [http-8080-2] [kr.co.ldcc.lemp.hybrid.server.web.control.MessageController]  TEST LICENSE!
+INFO 2018-07-27 16:27:55,370 [http-8080-2] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LegacyDB
+INFO 2018-07-27 16:27:55,402 [http-8080-2] [kr.co.ldcc.lemp.hybrid.server.web.control.MessageController]  <<<<<  DM0006 End =====
+INFO 2018-07-27 16:28:07,760 [http-8080-2] [kr.co.ldcc.lemp.hybrid.server.web.control.MessageController]  ===== Start DM0003  >>>>> 
+INFO 2018-07-27 16:28:07,991 [http-8080-2] [kr.co.ldcc.lemp.common.config.SmartConfig]  SmartConfig : C:/Users/LOTTE/Desktop/jworkspace/SMART_HOME\conf\properties\lemp.properties
+INFO 2018-07-27 16:28:08,003 [http-8080-2] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LegacyDB
+INFO 2018-07-27 16:28:08,009 [http-8080-2] [kr.co.ldcc.lemp.hybrid.server.web.control.MessageController]  <<<<<  DM0003 End =====
+INFO 2018-07-27 16:29:00,670 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() JournalDB
+INFO 2018-07-27 16:29:00,700 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.db.dao.MyBatisDao]  SQL [journal.SQL_KEEP] batch result > Total params : 8, Commit rows : 8
+INFO 2018-07-27 16:29:03,740 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.hybrid.server.core.MessageProcessorFactory]  ============ Starting to register MessageProcessor... ==============
+INFO 2018-07-27 16:29:03,741 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.hybrid.server.core.MessageProcessorFactory]  ============ Finished to register "1" MessageProcessors as spring bean!  ==============
+INFO 2018-07-27 16:29:04,318 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Start::register()
+INFO 2018-07-27 16:29:04,321 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode LOGIN was found and registered by bean LOGIN_ADT!
+INFO 2018-07-27 16:29:04,321 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0004 was found and registered by bean ZZ0004_ADT_GetFileUID!
+INFO 2018-07-27 16:29:04,321 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0005 was found and registered by bean ZZ0005_ADT_DeviceActivation!
+INFO 2018-07-27 16:29:04,322 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0006 was found and registered by bean ZZ0006_ADT_Update!
+INFO 2018-07-27 16:29:04,322 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0007 was found and registered by bean ZZ0007_ADT_NoticeList!
+INFO 2018-07-27 16:29:04,322 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0008 was found and registered by bean ZZ0008_ADT_VerifyHash!
+INFO 2018-07-27 16:29:04,322 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0010 was found and registered by bean ZZ0010_ADT_GetCiperKey!
+INFO 2018-07-27 16:29:04,322 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0011 was found and registered by bean ZZ0011_ADT_KeyShare!
+INFO 2018-07-27 16:29:04,323 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  End::register
+ERROR 2018-07-27 16:29:04,460 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.hybrid.server.web.service.ServicePauseInterceptorService]  Has occur error during loading servicePauseInterceptorConfig.xml
+INFO 2018-07-27 16:29:04,466 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.journal.IntegrationJournalService]  Journal Service : true
+INFO 2018-07-27 16:32:13,394 [main] [kr.co.ldcc.lemp.hybrid.server.core.MessageProcessorFactory]  ============ Starting to register MessageProcessor... ==============
+INFO 2018-07-27 16:32:13,396 [main] [kr.co.ldcc.lemp.hybrid.server.core.MessageProcessorFactory]  ============ Finished to register "1" MessageProcessors as spring bean!  ==============
+INFO 2018-07-27 16:32:14,140 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Start::register()
+INFO 2018-07-27 16:32:14,143 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode DM0001 was found and registered by bean DM0001_Adapter!
+INFO 2018-07-27 16:32:14,144 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode DM0002 was found and registered by bean DM0002_Adapter!
+INFO 2018-07-27 16:32:14,144 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode DM0003 was found and registered by bean DM0003_Adapter!
+INFO 2018-07-27 16:32:14,144 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode DM0005 was found and registered by bean DM0005_Adapter!
+INFO 2018-07-27 16:32:14,144 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode DM0006 was found and registered by bean DM0006_Adapter!
+INFO 2018-07-27 16:32:14,145 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode LOGIN was found and registered by bean LOGIN_ADT!
+INFO 2018-07-27 16:32:14,145 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0004 was found and registered by bean ZZ0004_ADT_GetFileUID!
+INFO 2018-07-27 16:32:14,145 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0005 was found and registered by bean ZZ0005_ADT_DeviceActivation!
+INFO 2018-07-27 16:32:14,145 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0006 was found and registered by bean ZZ0006_ADT_Update!
+INFO 2018-07-27 16:32:14,145 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0007 was found and registered by bean ZZ0007_ADT_NoticeList!
+INFO 2018-07-27 16:32:14,146 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0008 was found and registered by bean ZZ0008_ADT_VerifyHash!
+INFO 2018-07-27 16:32:14,146 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0010 was found and registered by bean ZZ0010_ADT_GetCiperKey!
+INFO 2018-07-27 16:32:14,146 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0011 was found and registered by bean ZZ0011_ADT_KeyShare!
+INFO 2018-07-27 16:32:14,146 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  End::register
+ERROR 2018-07-27 16:32:14,324 [main] [kr.co.ldcc.lemp.hybrid.server.web.service.ServicePauseInterceptorService]  Has occur error during loading servicePauseInterceptorConfig.xml
+INFO 2018-07-27 16:32:14,331 [main] [kr.co.ldcc.lemp.journal.IntegrationJournalService]  Journal Service : true
+INFO 2018-07-27 16:32:14,579 [main] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Success to load SampleSqlMapConfig.xml
+INFO 2018-07-27 16:32:14,605 [main] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Success to load journalDB_SqlMapConfig.xml
+INFO 2018-07-27 16:32:14,744 [main] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Success to load LEMPDB_SqlMapConfig.xml
+INFO 2018-07-27 16:32:15,525 [main] [kr.co.ldcc.lemp.hybrid.server.web.control.MessageController]  New Seed : 617628165
+INFO 2018-07-27 16:32:26,032 [http-8080-2] [kr.co.ldcc.lemp.hybrid.server.web.control.MessageController]  ===== Start DM0003  >>>>> 
+INFO 2018-07-27 16:32:26,041 [http-8080-2] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LEMPDB
+INFO 2018-07-27 16:32:26,041 [http-8080-2] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LEMPDB
+INFO 2018-07-27 16:32:26,262 [http-8080-2] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LEMPDB
+INFO 2018-07-27 16:32:26,262 [http-8080-2] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LEMPDB
+INFO 2018-07-27 16:32:26,267 [http-8080-2] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LEMPDB
+INFO 2018-07-27 16:32:26,268 [http-8080-2] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LEMPDB
+INFO 2018-07-27 16:32:26,535 [http-8080-2] [kr.co.ldcc.lemp.hybrid.server.web.control.MessageController]  TEST LICENSE!
+INFO 2018-07-27 16:32:26,777 [http-8080-2] [kr.co.ldcc.lemp.common.config.SmartConfig]  SmartConfig : C:/Users/LOTTE/Desktop/jworkspace/SMART_HOME\conf\properties\lemp.properties
+INFO 2018-07-27 16:32:26,789 [http-8080-2] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LegacyDB
+INFO 2018-07-27 16:32:26,810 [http-8080-2] [adapter.DM0003_Adapter]  게시글이 없다
+INFO 2018-07-27 16:32:26,815 [http-8080-2] [kr.co.ldcc.lemp.hybrid.server.web.control.MessageController]  <<<<<  DM0003 End =====
+INFO 2018-07-27 16:32:51,447 [http-8080-2] [kr.co.ldcc.lemp.hybrid.server.web.control.MessageController]  ===== Start DM0003  >>>>> 
+INFO 2018-07-27 16:32:51,458 [http-8080-2] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LegacyDB
+INFO 2018-07-27 16:32:51,461 [http-8080-2] [adapter.DM0003_Adapter]  게시글이 없다
+INFO 2018-07-27 16:32:51,462 [http-8080-2] [kr.co.ldcc.lemp.hybrid.server.web.control.MessageController]  <<<<<  DM0003 End =====
+INFO 2018-07-27 16:32:54,095 [http-8080-2] [kr.co.ldcc.lemp.hybrid.server.web.control.MessageController]  ===== Start DM0003  >>>>> 
+INFO 2018-07-27 16:32:54,106 [http-8080-2] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LegacyDB
+INFO 2018-07-27 16:32:54,110 [http-8080-2] [adapter.DM0003_Adapter]  게시글이 없다
+INFO 2018-07-27 16:32:54,112 [http-8080-2] [kr.co.ldcc.lemp.hybrid.server.web.control.MessageController]  <<<<<  DM0003 End =====
+INFO 2018-07-27 16:33:02,053 [http-8080-2] [kr.co.ldcc.lemp.hybrid.server.web.control.MessageController]  ===== Start DM0003  >>>>> 
+INFO 2018-07-27 16:33:02,064 [http-8080-2] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LegacyDB
+INFO 2018-07-27 16:33:02,079 [http-8080-2] [kr.co.ldcc.lemp.hybrid.server.web.control.MessageController]  <<<<<  DM0003 End =====
+INFO 2018-07-27 16:33:15,556 [http-8080-2] [kr.co.ldcc.lemp.hybrid.server.web.control.MessageController]  ===== Start DM0005  >>>>> 
+INFO 2018-07-27 16:33:15,561 [http-8080-2] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LegacyDB
+INFO 2018-07-27 16:33:15,577 [http-8080-2] [kr.co.ldcc.lemp.hybrid.server.web.control.MessageController]  <<<<<  DM0005 End =====
+INFO 2018-07-27 16:33:25,029 [http-8080-2] [kr.co.ldcc.lemp.hybrid.server.web.control.MessageController]  ===== Start DM0003  >>>>> 
+INFO 2018-07-27 16:33:25,039 [http-8080-2] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LegacyDB
+INFO 2018-07-27 16:33:25,042 [http-8080-2] [adapter.DM0003_Adapter]  게시글이 없다
+INFO 2018-07-27 16:33:25,045 [http-8080-2] [kr.co.ldcc.lemp.hybrid.server.web.control.MessageController]  <<<<<  DM0003 End =====
+INFO 2018-07-27 16:42:14,843 [smartScheduler-1] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() JournalDB
+INFO 2018-07-27 16:42:14,928 [smartScheduler-1] [kr.co.ldcc.lemp.db.dao.MyBatisDao]  SQL [journal.SQL_KEEP] batch result > Total params : 24, Commit rows : 24
+INFO 2018-07-27 17:05:38,929 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.hybrid.server.core.MessageProcessorFactory]  ============ Starting to register MessageProcessor... ==============
+INFO 2018-07-27 17:05:38,931 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.hybrid.server.core.MessageProcessorFactory]  ============ Finished to register "1" MessageProcessors as spring bean!  ==============
+INFO 2018-07-27 17:05:39,496 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Start::register()
+INFO 2018-07-27 17:05:39,499 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode LOGIN was found and registered by bean LOGIN_ADT!
+INFO 2018-07-27 17:05:39,499 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0004 was found and registered by bean ZZ0004_ADT_GetFileUID!
+INFO 2018-07-27 17:05:39,499 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0005 was found and registered by bean ZZ0005_ADT_DeviceActivation!
+INFO 2018-07-27 17:05:39,500 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0006 was found and registered by bean ZZ0006_ADT_Update!
+INFO 2018-07-27 17:05:39,500 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0007 was found and registered by bean ZZ0007_ADT_NoticeList!
+INFO 2018-07-27 17:05:39,500 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0008 was found and registered by bean ZZ0008_ADT_VerifyHash!
+INFO 2018-07-27 17:05:39,500 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0010 was found and registered by bean ZZ0010_ADT_GetCiperKey!
+INFO 2018-07-27 17:05:39,501 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0011 was found and registered by bean ZZ0011_ADT_KeyShare!
+INFO 2018-07-27 17:05:39,501 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  End::register
+ERROR 2018-07-27 17:05:39,625 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.hybrid.server.web.service.ServicePauseInterceptorService]  Has occur error during loading servicePauseInterceptorConfig.xml
+INFO 2018-07-27 17:05:39,630 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.journal.IntegrationJournalService]  Journal Service : true
+ERROR 2018-07-27 17:05:39,748 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Error initializing mybatis. Cause: 
+org.apache.ibatis.builder.BuilderException: Error parsing SQL Mapper Configuration. Cause: org.apache.ibatis.builder.BuilderException: Error parsing Mapper XML. Cause: org.apache.ibatis.builder.BuilderException: Error resolving class. Cause: org.apache.ibatis.type.TypeException: Could not resolve type alias 'data.UserDomain'.  Cause: java.lang.ClassNotFoundException: Cannot find class: data.UserDomain
+	at org.apache.ibatis.builder.xml.XMLConfigBuilder.parseConfiguration(XMLConfigBuilder.java:109) ~[mybatis-3.2.7.jar:3.2.7]
+	at org.apache.ibatis.builder.xml.XMLConfigBuilder.parse(XMLConfigBuilder.java:92) ~[mybatis-3.2.7.jar:3.2.7]
+	at kr.co.ldcc.lemp.db.common.MyBatisConfig.init(MyBatisConfig.java:86) [db-mybatis-1.0.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.6.0_45]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.6.0_45]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.6.0_45]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.6.0_45]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeCustomInitMethod(AbstractAutowireCapableBeanFactory.java:1758) [spring-beans-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1695) [spring-beans-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1624) [spring-beans-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:555) [spring-beans-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:483) [spring-beans-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:306) [spring-beans-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230) [spring-beans-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:302) [spring-beans-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:197) [spring-beans-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:761) [spring-beans-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:867) [spring-context-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:543) [spring-context-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.springframework.web.context.ContextLoader.configureAndRefreshWebApplicationContext(ContextLoader.java:443) [spring-web-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:325) [spring-web-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.springframework.web.context.ContextLoaderListener.contextInitialized(ContextLoaderListener.java:107) [spring-web-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:4276) [catalina.jar:6.0.48]
+	at org.apache.catalina.core.StandardContext.start(StandardContext.java:4779) [catalina.jar:6.0.48]
+	at org.apache.catalina.core.StandardContext.reload(StandardContext.java:3531) [catalina.jar:6.0.48]
+	at org.apache.catalina.loader.WebappLoader.backgroundProcess(WebappLoader.java:426) [catalina.jar:6.0.48]
+	at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1365) [catalina.jar:6.0.48]
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1657) [catalina.jar:6.0.48]
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1666) [catalina.jar:6.0.48]
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1666) [catalina.jar:6.0.48]
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1646) [catalina.jar:6.0.48]
+	at java.lang.Thread.run(Unknown Source) [?:1.6.0_45]
+Caused by: org.apache.ibatis.builder.BuilderException: Error parsing Mapper XML. Cause: org.apache.ibatis.builder.BuilderException: Error resolving class. Cause: org.apache.ibatis.type.TypeException: Could not resolve type alias 'data.UserDomain'.  Cause: java.lang.ClassNotFoundException: Cannot find class: data.UserDomain
+	at org.apache.ibatis.builder.xml.XMLMapperBuilder.configurationElement(XMLMapperBuilder.java:120) ~[mybatis-3.2.7.jar:3.2.7]
+	at org.apache.ibatis.builder.xml.XMLMapperBuilder.parse(XMLMapperBuilder.java:92) ~[mybatis-3.2.7.jar:3.2.7]
+	at org.apache.ibatis.builder.xml.XMLConfigBuilder.mapperElement(XMLConfigBuilder.java:327) ~[mybatis-3.2.7.jar:3.2.7]
+	at org.apache.ibatis.builder.xml.XMLConfigBuilder.parseConfiguration(XMLConfigBuilder.java:107) ~[mybatis-3.2.7.jar:3.2.7]
+	... 31 more
+Caused by: org.apache.ibatis.builder.BuilderException: Error resolving class. Cause: org.apache.ibatis.type.TypeException: Could not resolve type alias 'data.UserDomain'.  Cause: java.lang.ClassNotFoundException: Cannot find class: data.UserDomain
+	at org.apache.ibatis.builder.BaseBuilder.resolveClass(BaseBuilder.java:103) ~[mybatis-3.2.7.jar:3.2.7]
+	at org.apache.ibatis.builder.xml.XMLStatementBuilder.parseStatementNode(XMLStatementBuilder.java:72) ~[mybatis-3.2.7.jar:3.2.7]
+	at org.apache.ibatis.builder.xml.XMLMapperBuilder.buildStatementFromContext(XMLMapperBuilder.java:135) ~[mybatis-3.2.7.jar:3.2.7]
+	at org.apache.ibatis.builder.xml.XMLMapperBuilder.buildStatementFromContext(XMLMapperBuilder.java:128) ~[mybatis-3.2.7.jar:3.2.7]
+	at org.apache.ibatis.builder.xml.XMLMapperBuilder.configurationElement(XMLMapperBuilder.java:118) ~[mybatis-3.2.7.jar:3.2.7]
+	at org.apache.ibatis.builder.xml.XMLMapperBuilder.parse(XMLMapperBuilder.java:92) ~[mybatis-3.2.7.jar:3.2.7]
+	at org.apache.ibatis.builder.xml.XMLConfigBuilder.mapperElement(XMLConfigBuilder.java:327) ~[mybatis-3.2.7.jar:3.2.7]
+	at org.apache.ibatis.builder.xml.XMLConfigBuilder.parseConfiguration(XMLConfigBuilder.java:107) ~[mybatis-3.2.7.jar:3.2.7]
+	... 31 more
+Caused by: org.apache.ibatis.type.TypeException: Could not resolve type alias 'data.UserDomain'.  Cause: java.lang.ClassNotFoundException: Cannot find class: data.UserDomain
+	at org.apache.ibatis.type.TypeAliasRegistry.resolveAlias(TypeAliasRegistry.java:117) ~[mybatis-3.2.7.jar:3.2.7]
+	at org.apache.ibatis.builder.BaseBuilder.resolveAlias(BaseBuilder.java:130) ~[mybatis-3.2.7.jar:3.2.7]
+	at org.apache.ibatis.builder.BaseBuilder.resolveClass(BaseBuilder.java:101) ~[mybatis-3.2.7.jar:3.2.7]
+	at org.apache.ibatis.builder.xml.XMLStatementBuilder.parseStatementNode(XMLStatementBuilder.java:72) ~[mybatis-3.2.7.jar:3.2.7]
+	at org.apache.ibatis.builder.xml.XMLMapperBuilder.buildStatementFromContext(XMLMapperBuilder.java:135) ~[mybatis-3.2.7.jar:3.2.7]
+	at org.apache.ibatis.builder.xml.XMLMapperBuilder.buildStatementFromContext(XMLMapperBuilder.java:128) ~[mybatis-3.2.7.jar:3.2.7]
+	at org.apache.ibatis.builder.xml.XMLMapperBuilder.configurationElement(XMLMapperBuilder.java:118) ~[mybatis-3.2.7.jar:3.2.7]
+	at org.apache.ibatis.builder.xml.XMLMapperBuilder.parse(XMLMapperBuilder.java:92) ~[mybatis-3.2.7.jar:3.2.7]
+	at org.apache.ibatis.builder.xml.XMLConfigBuilder.mapperElement(XMLConfigBuilder.java:327) ~[mybatis-3.2.7.jar:3.2.7]
+	at org.apache.ibatis.builder.xml.XMLConfigBuilder.parseConfiguration(XMLConfigBuilder.java:107) ~[mybatis-3.2.7.jar:3.2.7]
+	... 31 more
+Caused by: java.lang.ClassNotFoundException: Cannot find class: data.UserDomain
+	at org.apache.ibatis.io.ClassLoaderWrapper.classForName(ClassLoaderWrapper.java:190) ~[mybatis-3.2.7.jar:3.2.7]
+	at org.apache.ibatis.io.ClassLoaderWrapper.classForName(ClassLoaderWrapper.java:89) ~[mybatis-3.2.7.jar:3.2.7]
+	at org.apache.ibatis.io.Resources.classForName(Resources.java:256) ~[mybatis-3.2.7.jar:3.2.7]
+	at org.apache.ibatis.type.TypeAliasRegistry.resolveAlias(TypeAliasRegistry.java:113) ~[mybatis-3.2.7.jar:3.2.7]
+	at org.apache.ibatis.builder.BaseBuilder.resolveAlias(BaseBuilder.java:130) ~[mybatis-3.2.7.jar:3.2.7]
+	at org.apache.ibatis.builder.BaseBuilder.resolveClass(BaseBuilder.java:101) ~[mybatis-3.2.7.jar:3.2.7]
+	at org.apache.ibatis.builder.xml.XMLStatementBuilder.parseStatementNode(XMLStatementBuilder.java:72) ~[mybatis-3.2.7.jar:3.2.7]
+	at org.apache.ibatis.builder.xml.XMLMapperBuilder.buildStatementFromContext(XMLMapperBuilder.java:135) ~[mybatis-3.2.7.jar:3.2.7]
+	at org.apache.ibatis.builder.xml.XMLMapperBuilder.buildStatementFromContext(XMLMapperBuilder.java:128) ~[mybatis-3.2.7.jar:3.2.7]
+	at org.apache.ibatis.builder.xml.XMLMapperBuilder.configurationElement(XMLMapperBuilder.java:118) ~[mybatis-3.2.7.jar:3.2.7]
+	at org.apache.ibatis.builder.xml.XMLMapperBuilder.parse(XMLMapperBuilder.java:92) ~[mybatis-3.2.7.jar:3.2.7]
+	at org.apache.ibatis.builder.xml.XMLConfigBuilder.mapperElement(XMLConfigBuilder.java:327) ~[mybatis-3.2.7.jar:3.2.7]
+	at org.apache.ibatis.builder.xml.XMLConfigBuilder.parseConfiguration(XMLConfigBuilder.java:107) ~[mybatis-3.2.7.jar:3.2.7]
+	... 31 more
+WARN 2018-07-27 17:05:39,753 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [org.springframework.web.context.support.XmlWebApplicationContext]  Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'mybatisConfig' defined in file [C:\Users\LOTTE\Desktop\jworkspace\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\lemp-server\WEB-INF\config\applicationcontext\applicationcontext-webapp.xml]: Invocation of init method failed; nested exception is java.lang.RuntimeException: Error initializing mybatis. Cause:org.apache.ibatis.builder.BuilderException: Error parsing SQL Mapper Configuration. Cause: org.apache.ibatis.builder.BuilderException: Error parsing Mapper XML. Cause: org.apache.ibatis.builder.BuilderException: Error resolving class. Cause: org.apache.ibatis.type.TypeException: Could not resolve type alias 'data.UserDomain'.  Cause: java.lang.ClassNotFoundException: Cannot find class: data.UserDomain
+ERROR 2018-07-27 17:05:39,769 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [org.springframework.web.context.ContextLoader]  Context initialization failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'mybatisConfig' defined in file [C:\Users\LOTTE\Desktop\jworkspace\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\lemp-server\WEB-INF\config\applicationcontext\applicationcontext-webapp.xml]: Invocation of init method failed; nested exception is java.lang.RuntimeException: Error initializing mybatis. Cause:org.apache.ibatis.builder.BuilderException: Error parsing SQL Mapper Configuration. Cause: org.apache.ibatis.builder.BuilderException: Error parsing Mapper XML. Cause: org.apache.ibatis.builder.BuilderException: Error resolving class. Cause: org.apache.ibatis.type.TypeException: Could not resolve type alias 'data.UserDomain'.  Cause: java.lang.ClassNotFoundException: Cannot find class: data.UserDomain
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1628) ~[spring-beans-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:555) ~[spring-beans-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:483) ~[spring-beans-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:306) ~[spring-beans-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230) ~[spring-beans-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:302) ~[spring-beans-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:197) ~[spring-beans-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:761) ~[spring-beans-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:867) ~[spring-context-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:543) ~[spring-context-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.springframework.web.context.ContextLoader.configureAndRefreshWebApplicationContext(ContextLoader.java:443) ~[spring-web-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:325) [spring-web-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.springframework.web.context.ContextLoaderListener.contextInitialized(ContextLoaderListener.java:107) [spring-web-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:4276) [catalina.jar:6.0.48]
+	at org.apache.catalina.core.StandardContext.start(StandardContext.java:4779) [catalina.jar:6.0.48]
+	at org.apache.catalina.core.StandardContext.reload(StandardContext.java:3531) [catalina.jar:6.0.48]
+	at org.apache.catalina.loader.WebappLoader.backgroundProcess(WebappLoader.java:426) [catalina.jar:6.0.48]
+	at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1365) [catalina.jar:6.0.48]
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1657) [catalina.jar:6.0.48]
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1666) [catalina.jar:6.0.48]
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1666) [catalina.jar:6.0.48]
+	at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1646) [catalina.jar:6.0.48]
+	at java.lang.Thread.run(Unknown Source) [?:1.6.0_45]
+Caused by: java.lang.RuntimeException: Error initializing mybatis. Cause:org.apache.ibatis.builder.BuilderException: Error parsing SQL Mapper Configuration. Cause: org.apache.ibatis.builder.BuilderException: Error parsing Mapper XML. Cause: org.apache.ibatis.builder.BuilderException: Error resolving class. Cause: org.apache.ibatis.type.TypeException: Could not resolve type alias 'data.UserDomain'.  Cause: java.lang.ClassNotFoundException: Cannot find class: data.UserDomain
+	at kr.co.ldcc.lemp.db.common.MyBatisConfig.init(MyBatisConfig.java:104) ~[db-mybatis-1.0.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.6.0_45]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.6.0_45]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.6.0_45]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.6.0_45]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeCustomInitMethod(AbstractAutowireCapableBeanFactory.java:1758) ~[spring-beans-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1695) ~[spring-beans-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1624) ~[spring-beans-4.3.11.RELEASE.jar:4.3.11.RELEASE]
+	... 22 more
+INFO 2018-07-27 17:21:05,770 [main] [kr.co.ldcc.lemp.hybrid.server.core.MessageProcessorFactory]  ============ Starting to register MessageProcessor... ==============
+INFO 2018-07-27 17:21:05,772 [main] [kr.co.ldcc.lemp.hybrid.server.core.MessageProcessorFactory]  ============ Finished to register "1" MessageProcessors as spring bean!  ==============
+INFO 2018-07-27 17:21:06,523 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Start::register()
+INFO 2018-07-27 17:21:06,526 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode DM0001 was found and registered by bean DM0001_Adapter!
+INFO 2018-07-27 17:21:06,527 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode DM0002 was found and registered by bean DM0002_Adapter!
+INFO 2018-07-27 17:21:06,527 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode DM0003 was found and registered by bean DM0003_Adapter!
+INFO 2018-07-27 17:21:06,527 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode DM0005 was found and registered by bean DM0005_Adapter!
+INFO 2018-07-27 17:21:06,527 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode DM0006 was found and registered by bean DM0006_Adapter!
+INFO 2018-07-27 17:21:06,528 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode LOGIN was found and registered by bean LOGIN_ADT!
+INFO 2018-07-27 17:21:06,528 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0004 was found and registered by bean ZZ0004_ADT_GetFileUID!
+INFO 2018-07-27 17:21:06,528 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0005 was found and registered by bean ZZ0005_ADT_DeviceActivation!
+INFO 2018-07-27 17:21:06,528 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0006 was found and registered by bean ZZ0006_ADT_Update!
+INFO 2018-07-27 17:21:06,528 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0007 was found and registered by bean ZZ0007_ADT_NoticeList!
+INFO 2018-07-27 17:21:06,529 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0008 was found and registered by bean ZZ0008_ADT_VerifyHash!
+INFO 2018-07-27 17:21:06,529 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0010 was found and registered by bean ZZ0010_ADT_GetCiperKey!
+INFO 2018-07-27 17:21:06,529 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0011 was found and registered by bean ZZ0011_ADT_KeyShare!
+INFO 2018-07-27 17:21:06,529 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  End::register
+ERROR 2018-07-27 17:21:06,703 [main] [kr.co.ldcc.lemp.hybrid.server.web.service.ServicePauseInterceptorService]  Has occur error during loading servicePauseInterceptorConfig.xml
+INFO 2018-07-27 17:21:06,709 [main] [kr.co.ldcc.lemp.journal.IntegrationJournalService]  Journal Service : true
+INFO 2018-07-27 17:21:06,952 [main] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Success to load SampleSqlMapConfig.xml
+INFO 2018-07-27 17:21:06,975 [main] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Success to load journalDB_SqlMapConfig.xml
+INFO 2018-07-27 17:21:07,112 [main] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Success to load LEMPDB_SqlMapConfig.xml
+INFO 2018-07-27 17:21:07,899 [main] [kr.co.ldcc.lemp.hybrid.server.web.control.MessageController]  New Seed : 617629019
+INFO 2018-07-27 17:21:18,132 [http-8080-1] [kr.co.ldcc.lemp.hybrid.server.web.control.MessageController]  ===== Start LOGIN  >>>>> 
+INFO 2018-07-27 17:21:18,141 [http-8080-1] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LEMPDB
+INFO 2018-07-27 17:21:18,141 [http-8080-1] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LEMPDB
+INFO 2018-07-27 17:21:18,362 [http-8080-1] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LEMPDB
+INFO 2018-07-27 17:21:18,363 [http-8080-1] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LEMPDB
+INFO 2018-07-27 17:21:18,367 [http-8080-1] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LEMPDB
+INFO 2018-07-27 17:21:18,367 [http-8080-1] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LEMPDB
+INFO 2018-07-27 17:21:18,640 [http-8080-1] [kr.co.ldcc.lemp.hybrid.server.web.control.MessageController]  TEST LICENSE!
+WARN 2018-07-27 17:21:18,651 [http-8080-1] [kr.co.ldcc.lemp.hybrid.server.web.service.SessionAwareService]  6176290190000000000  > session ID : Unknown
+INFO 2018-07-27 17:21:18,663 [http-8080-1] [kr.co.ldcc.lemp.hybrid.server.web.control.MessageController]  사용자 인증 순서 : first  - lemp  second - legacy
+INFO 2018-07-27 17:21:18,666 [http-8080-1] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LEMPDB
+INFO 2018-07-27 17:21:18,666 [http-8080-1] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LEMPDB
+INFO 2018-07-27 17:21:18,670 [http-8080-1] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LEMPDB
+INFO 2018-07-27 17:21:18,670 [http-8080-1] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LEMPDB
+INFO 2018-07-27 17:21:18,674 [http-8080-1] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LEMPDB
+INFO 2018-07-27 17:21:18,675 [http-8080-1] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LEMPDB
+INFO 2018-07-27 17:21:18,683 [http-8080-1] [kr.co.ldcc.portal.auth.service.DBB2CUserService]  ===== Start:: B2C - authenticate() : 
+INFO 2018-07-27 17:21:18,683 [http-8080-1] [kr.co.ldcc.portal.auth.service.DBB2CUserService]  End::authenticate() :  =====
+INFO 2018-07-27 17:21:18,687 [http-8080-1] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() LegacyDB
+INFO 2018-07-27 17:21:18,714 [http-8080-1] [kr.co.ldcc.lemp.hybrid.server.web.control.MessageController]  <<<<<  LOGIN End =====
+INFO 2018-07-27 17:21:46,271 [http-8080-1] [kr.co.ldcc.lemp.hybrid.server.web.control.DownloadController]  ===== Start::download() of sample : uid : /download/sample, file : test.jpg
+INFO 2018-07-27 17:21:46,271 [http-8080-1] [web.SampleDownloader]  ========Start downloading from sample : /download/sample 
+INFO 2018-07-27 17:21:46,274 [http-8080-1] [kr.co.ldcc.lemp.downloader.URLDownloader]  Start::download()
+INFO 2018-07-27 17:21:46,275 [http-8080-1] [kr.co.ldcc.lemp.downloader.URLDownloader]  End::download()
+ERROR 2018-07-27 17:21:46,278 [http-8080-1] [kr.co.ldcc.lemp.hybrid.server.web.control.DownloadController]  Download failed! Code: 500, Cause: 1
+ERROR 2018-07-27 17:22:05,968 [http-8080-2] [kr.co.ldcc.lemp.hybrid.server.web.control.DownloadController]  Download failed! Code: 500, Cause: Required String parameter 'file_name' is not present
+ERROR 2018-07-27 17:22:18,968 [http-8080-1] [kr.co.ldcc.lemp.hybrid.server.web.control.DownloadController]  Download failed! Code: 500, Cause: Required String parameter 'file_name' is not present
+INFO 2018-07-27 17:22:28,417 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Start::getSqlSessionFactory() JournalDB
+INFO 2018-07-27 17:22:28,448 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.db.dao.MyBatisDao]  SQL [journal.SQL_KEEP] batch result > Total params : 8, Commit rows : 8
+INFO 2018-07-27 17:22:31,451 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.hybrid.server.core.MessageProcessorFactory]  ============ Starting to register MessageProcessor... ==============
+INFO 2018-07-27 17:22:31,453 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.hybrid.server.core.MessageProcessorFactory]  ============ Finished to register "1" MessageProcessors as spring bean!  ==============
+INFO 2018-07-27 17:22:32,058 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Start::register()
+INFO 2018-07-27 17:22:32,062 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode DM0001 was found and registered by bean DM0001_Adapter!
+INFO 2018-07-27 17:22:32,062 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode DM0002 was found and registered by bean DM0002_Adapter!
+INFO 2018-07-27 17:22:32,062 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode DM0003 was found and registered by bean DM0003_Adapter!
+INFO 2018-07-27 17:22:32,062 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode DM0005 was found and registered by bean DM0005_Adapter!
+INFO 2018-07-27 17:22:32,063 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode DM0006 was found and registered by bean DM0006_Adapter!
+INFO 2018-07-27 17:22:32,063 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode LOGIN was found and registered by bean LOGIN_ADT!
+INFO 2018-07-27 17:22:32,063 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0004 was found and registered by bean ZZ0004_ADT_GetFileUID!
+INFO 2018-07-27 17:22:32,063 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0005 was found and registered by bean ZZ0005_ADT_DeviceActivation!
+INFO 2018-07-27 17:22:32,063 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0006 was found and registered by bean ZZ0006_ADT_Update!
+INFO 2018-07-27 17:22:32,064 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0007 was found and registered by bean ZZ0007_ADT_NoticeList!
+INFO 2018-07-27 17:22:32,064 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0008 was found and registered by bean ZZ0008_ADT_VerifyHash!
+INFO 2018-07-27 17:22:32,064 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0010 was found and registered by bean ZZ0010_ADT_GetCiperKey!
+INFO 2018-07-27 17:22:32,064 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0011 was found and registered by bean ZZ0011_ADT_KeyShare!
+INFO 2018-07-27 17:22:32,064 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  End::register
+ERROR 2018-07-27 17:22:32,212 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.hybrid.server.web.service.ServicePauseInterceptorService]  Has occur error during loading servicePauseInterceptorConfig.xml
+INFO 2018-07-27 17:22:32,217 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.journal.IntegrationJournalService]  Journal Service : true
+INFO 2018-07-27 17:22:32,477 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Success to load SampleSqlMapConfig.xml
+INFO 2018-07-27 17:22:32,499 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Success to load journalDB_SqlMapConfig.xml
+INFO 2018-07-27 17:22:32,620 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Success to load LEMPDB_SqlMapConfig.xml
+INFO 2018-07-27 17:22:33,344 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.hybrid.server.web.control.MessageController]  New Seed : 617629024
+INFO 2018-07-27 17:22:48,401 [main] [kr.co.ldcc.lemp.hybrid.server.core.MessageProcessorFactory]  ============ Starting to register MessageProcessor... ==============
+INFO 2018-07-27 17:22:48,403 [main] [kr.co.ldcc.lemp.hybrid.server.core.MessageProcessorFactory]  ============ Finished to register "1" MessageProcessors as spring bean!  ==============
+INFO 2018-07-27 17:22:49,165 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Start::register()
+INFO 2018-07-27 17:22:49,168 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode DM0001 was found and registered by bean DM0001_Adapter!
+INFO 2018-07-27 17:22:49,169 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode DM0002 was found and registered by bean DM0002_Adapter!
+INFO 2018-07-27 17:22:49,169 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode DM0003 was found and registered by bean DM0003_Adapter!
+INFO 2018-07-27 17:22:49,169 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode DM0005 was found and registered by bean DM0005_Adapter!
+INFO 2018-07-27 17:22:49,169 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode DM0006 was found and registered by bean DM0006_Adapter!
+INFO 2018-07-27 17:22:49,170 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode LOGIN was found and registered by bean LOGIN_ADT!
+INFO 2018-07-27 17:22:49,170 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0004 was found and registered by bean ZZ0004_ADT_GetFileUID!
+INFO 2018-07-27 17:22:49,170 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0005 was found and registered by bean ZZ0005_ADT_DeviceActivation!
+INFO 2018-07-27 17:22:49,170 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0006 was found and registered by bean ZZ0006_ADT_Update!
+INFO 2018-07-27 17:22:49,170 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0007 was found and registered by bean ZZ0007_ADT_NoticeList!
+INFO 2018-07-27 17:22:49,171 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0008 was found and registered by bean ZZ0008_ADT_VerifyHash!
+INFO 2018-07-27 17:22:49,171 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0010 was found and registered by bean ZZ0010_ADT_GetCiperKey!
+INFO 2018-07-27 17:22:49,171 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0011 was found and registered by bean ZZ0011_ADT_KeyShare!
+INFO 2018-07-27 17:22:49,171 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  End::register
+ERROR 2018-07-27 17:22:49,346 [main] [kr.co.ldcc.lemp.hybrid.server.web.service.ServicePauseInterceptorService]  Has occur error during loading servicePauseInterceptorConfig.xml
+INFO 2018-07-27 17:22:49,352 [main] [kr.co.ldcc.lemp.journal.IntegrationJournalService]  Journal Service : true
+INFO 2018-07-27 17:22:49,603 [main] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Success to load SampleSqlMapConfig.xml
+INFO 2018-07-27 17:22:49,628 [main] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Success to load journalDB_SqlMapConfig.xml
+INFO 2018-07-27 17:22:49,768 [main] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Success to load LEMPDB_SqlMapConfig.xml
+INFO 2018-07-27 17:22:50,553 [main] [kr.co.ldcc.lemp.hybrid.server.web.control.MessageController]  New Seed : 617629033
+ERROR 2018-07-27 17:22:57,677 [http-8080-2] [kr.co.ldcc.lemp.hybrid.server.web.control.DownloadController]  Download failed! Code: 500, Cause: Required String parameter 'file_name' is not present
+INFO 2018-07-27 17:23:22,949 [http-8080-3] [kr.co.ldcc.lemp.hybrid.server.web.control.DownloadController]  ===== Start::download() of sample : uid : /download/sample, file : test.jpg
+INFO 2018-07-27 17:23:22,950 [http-8080-3] [web.SampleDownloader]  ========Start downloading from sample : /download/sample 
+INFO 2018-07-27 17:23:22,955 [http-8080-3] [kr.co.ldcc.lemp.downloader.URLDownloader]  Start::download()
+INFO 2018-07-27 17:23:22,957 [http-8080-3] [kr.co.ldcc.lemp.downloader.URLDownloader]  End::download()
+ERROR 2018-07-27 17:23:22,958 [http-8080-3] [kr.co.ldcc.lemp.hybrid.server.web.control.DownloadController]  Download failed! Code: 500, Cause: 1
+INFO 2018-07-27 17:23:53,921 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.hybrid.server.core.MessageProcessorFactory]  ============ Starting to register MessageProcessor... ==============
+INFO 2018-07-27 17:23:53,923 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.hybrid.server.core.MessageProcessorFactory]  ============ Finished to register "1" MessageProcessors as spring bean!  ==============
+INFO 2018-07-27 17:23:54,562 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Start::register()
+INFO 2018-07-27 17:23:54,564 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode DM0001 was found and registered by bean DM0001_Adapter!
+INFO 2018-07-27 17:23:54,565 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode DM0002 was found and registered by bean DM0002_Adapter!
+INFO 2018-07-27 17:23:54,565 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode DM0003 was found and registered by bean DM0003_Adapter!
+INFO 2018-07-27 17:23:54,565 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode DM0005 was found and registered by bean DM0005_Adapter!
+INFO 2018-07-27 17:23:54,565 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode DM0006 was found and registered by bean DM0006_Adapter!
+INFO 2018-07-27 17:23:54,565 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode LOGIN was found and registered by bean LOGIN_ADT!
+INFO 2018-07-27 17:23:54,566 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0004 was found and registered by bean ZZ0004_ADT_GetFileUID!
+INFO 2018-07-27 17:23:54,566 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0005 was found and registered by bean ZZ0005_ADT_DeviceActivation!
+INFO 2018-07-27 17:23:54,566 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0006 was found and registered by bean ZZ0006_ADT_Update!
+INFO 2018-07-27 17:23:54,566 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0007 was found and registered by bean ZZ0007_ADT_NoticeList!
+INFO 2018-07-27 17:23:54,567 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0008 was found and registered by bean ZZ0008_ADT_VerifyHash!
+INFO 2018-07-27 17:23:54,567 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0010 was found and registered by bean ZZ0010_ADT_GetCiperKey!
+INFO 2018-07-27 17:23:54,567 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0011 was found and registered by bean ZZ0011_ADT_KeyShare!
+INFO 2018-07-27 17:23:54,567 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  End::register
+ERROR 2018-07-27 17:23:54,688 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.hybrid.server.web.service.ServicePauseInterceptorService]  Has occur error during loading servicePauseInterceptorConfig.xml
+INFO 2018-07-27 17:23:54,694 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.journal.IntegrationJournalService]  Journal Service : true
+INFO 2018-07-27 17:23:54,937 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Success to load SampleSqlMapConfig.xml
+INFO 2018-07-27 17:23:54,964 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Success to load journalDB_SqlMapConfig.xml
+INFO 2018-07-27 17:23:55,105 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Success to load LEMPDB_SqlMapConfig.xml
+INFO 2018-07-27 17:23:55,830 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.hybrid.server.web.control.MessageController]  New Seed : 617629046
+INFO 2018-07-27 17:23:56,973 [http-8080-1] [kr.co.ldcc.lemp.hybrid.server.web.control.DownloadController]  ===== Start::download() of sample : uid : /download/sample, file : test.jpg
+INFO 2018-07-27 17:23:56,974 [http-8080-1] [web.SampleDownloader]  ========Start downloading from sample : /download/sample 
+INFO 2018-07-27 17:23:56,977 [http-8080-1] [kr.co.ldcc.lemp.downloader.URLDownloader]  Start::download()
+INFO 2018-07-27 17:23:56,978 [http-8080-1] [kr.co.ldcc.lemp.downloader.URLDownloader]  End::download()
+ERROR 2018-07-27 17:23:56,981 [http-8080-1] [kr.co.ldcc.lemp.hybrid.server.web.control.DownloadController]  Download failed! Code: 500, Cause: 1
+ERROR 2018-07-27 17:24:36,898 [http-8080-3] [kr.co.ldcc.lemp.hybrid.server.web.control.DownloadController]  Download failed! Code: 500, Cause: Required int parameter 'mode' is not present
+INFO 2018-07-27 17:26:09,428 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.hybrid.server.core.MessageProcessorFactory]  ============ Starting to register MessageProcessor... ==============
+INFO 2018-07-27 17:26:09,429 [ContainerBackgroundProcessor[StandardEngine[Catalina]]] [kr.co.ldcc.lemp.hybrid.server.core.MessageProcessorFactory]  ============ Finished to register "1" MessageProcessors as spring bean!  ==============
+INFO 2018-07-27 17:26:17,461 [main] [kr.co.ldcc.lemp.hybrid.server.core.MessageProcessorFactory]  ============ Starting to register MessageProcessor... ==============
+INFO 2018-07-27 17:26:17,463 [main] [kr.co.ldcc.lemp.hybrid.server.core.MessageProcessorFactory]  ============ Finished to register "1" MessageProcessors as spring bean!  ==============
+INFO 2018-07-27 17:26:18,201 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Start::register()
+INFO 2018-07-27 17:26:18,205 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode DM0001 was found and registered by bean DM0001_Adapter!
+INFO 2018-07-27 17:26:18,205 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode DM0002 was found and registered by bean DM0002_Adapter!
+INFO 2018-07-27 17:26:18,205 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode DM0003 was found and registered by bean DM0003_Adapter!
+INFO 2018-07-27 17:26:18,205 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode DM0005 was found and registered by bean DM0005_Adapter!
+INFO 2018-07-27 17:26:18,206 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode DM0006 was found and registered by bean DM0006_Adapter!
+INFO 2018-07-27 17:26:18,206 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode LOGIN was found and registered by bean LOGIN_ADT!
+INFO 2018-07-27 17:26:18,206 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0004 was found and registered by bean ZZ0004_ADT_GetFileUID!
+INFO 2018-07-27 17:26:18,206 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0005 was found and registered by bean ZZ0005_ADT_DeviceActivation!
+INFO 2018-07-27 17:26:18,206 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0006 was found and registered by bean ZZ0006_ADT_Update!
+INFO 2018-07-27 17:26:18,207 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0007 was found and registered by bean ZZ0007_ADT_NoticeList!
+INFO 2018-07-27 17:26:18,207 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0008 was found and registered by bean ZZ0008_ADT_VerifyHash!
+INFO 2018-07-27 17:26:18,207 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0010 was found and registered by bean ZZ0010_ADT_GetCiperKey!
+INFO 2018-07-27 17:26:18,207 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0011 was found and registered by bean ZZ0011_ADT_KeyShare!
+INFO 2018-07-27 17:26:18,207 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  End::register
+ERROR 2018-07-27 17:26:18,386 [main] [kr.co.ldcc.lemp.hybrid.server.web.service.ServicePauseInterceptorService]  Has occur error during loading servicePauseInterceptorConfig.xml
+INFO 2018-07-27 17:26:18,392 [main] [kr.co.ldcc.lemp.journal.IntegrationJournalService]  Journal Service : true
+INFO 2018-07-27 17:26:18,641 [main] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Success to load SampleSqlMapConfig.xml
+INFO 2018-07-27 17:26:18,665 [main] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Success to load journalDB_SqlMapConfig.xml
+INFO 2018-07-27 17:26:18,808 [main] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Success to load LEMPDB_SqlMapConfig.xml
+INFO 2018-07-27 17:26:19,603 [main] [kr.co.ldcc.lemp.hybrid.server.web.control.MessageController]  New Seed : 617629091
+INFO 2018-07-27 17:26:38,025 [main] [kr.co.ldcc.lemp.hybrid.server.core.MessageProcessorFactory]  ============ Starting to register MessageProcessor... ==============
+INFO 2018-07-27 17:26:38,027 [main] [kr.co.ldcc.lemp.hybrid.server.core.MessageProcessorFactory]  ============ Finished to register "1" MessageProcessors as spring bean!  ==============
+INFO 2018-07-27 17:26:38,768 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Start::register()
+INFO 2018-07-27 17:26:38,772 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode DM0001 was found and registered by bean DM0001_Adapter!
+INFO 2018-07-27 17:26:38,772 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode DM0002 was found and registered by bean DM0002_Adapter!
+INFO 2018-07-27 17:26:38,773 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode DM0003 was found and registered by bean DM0003_Adapter!
+INFO 2018-07-27 17:26:38,773 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode DM0005 was found and registered by bean DM0005_Adapter!
+INFO 2018-07-27 17:26:38,773 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode DM0006 was found and registered by bean DM0006_Adapter!
+INFO 2018-07-27 17:26:38,773 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode LOGIN was found and registered by bean LOGIN_ADT!
+INFO 2018-07-27 17:26:38,774 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0004 was found and registered by bean ZZ0004_ADT_GetFileUID!
+INFO 2018-07-27 17:26:38,774 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0005 was found and registered by bean ZZ0005_ADT_DeviceActivation!
+INFO 2018-07-27 17:26:38,774 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0006 was found and registered by bean ZZ0006_ADT_Update!
+INFO 2018-07-27 17:26:38,774 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0007 was found and registered by bean ZZ0007_ADT_NoticeList!
+INFO 2018-07-27 17:26:38,774 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0008 was found and registered by bean ZZ0008_ADT_VerifyHash!
+INFO 2018-07-27 17:26:38,774 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0010 was found and registered by bean ZZ0010_ADT_GetCiperKey!
+INFO 2018-07-27 17:26:38,775 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  Register Adapter: The trcode ZZ0011 was found and registered by bean ZZ0011_ADT_KeyShare!
+INFO 2018-07-27 17:26:38,775 [main] [kr.co.ldcc.lemp.hybrid.adapter.loaders.AnnotationBeanAdapterLoader]  End::register
+ERROR 2018-07-27 17:26:38,952 [main] [kr.co.ldcc.lemp.hybrid.server.web.service.ServicePauseInterceptorService]  Has occur error during loading servicePauseInterceptorConfig.xml
+INFO 2018-07-27 17:26:38,959 [main] [kr.co.ldcc.lemp.journal.IntegrationJournalService]  Journal Service : true
+INFO 2018-07-27 17:26:39,202 [main] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Success to load SampleSqlMapConfig.xml
+INFO 2018-07-27 17:26:39,227 [main] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Success to load journalDB_SqlMapConfig.xml
+INFO 2018-07-27 17:26:39,365 [main] [kr.co.ldcc.lemp.db.common.MyBatisConfig]  Success to load LEMPDB_SqlMapConfig.xml
+INFO 2018-07-27 17:26:40,167 [main] [kr.co.ldcc.lemp.hybrid.server.web.control.MessageController]  New Seed : 617629095
+ERROR 2018-07-27 17:27:04,901 [http-8080-1] [kr.co.ldcc.lemp.hybrid.server.web.control.DownloadController]  Download failed! Code: 500, Cause: Required String parameter 'file_name' is not present
+INFO 2018-07-27 17:27:29,368 [http-8080-2] [kr.co.ldcc.lemp.hybrid.server.web.control.DownloadController]  ===== Start::download() of sample : uid : /download/sample, file : pika.exe
+INFO 2018-07-27 17:27:29,369 [http-8080-2] [web.SampleDownloader]  ========Start downloading from sample : /download/sample 
+INFO 2018-07-27 17:27:29,375 [http-8080-2] [kr.co.ldcc.lemp.downloader.URLDownloader]  Start::download()
+INFO 2018-07-27 17:27:29,376 [http-8080-2] [kr.co.ldcc.lemp.downloader.URLDownloader]  End::download()
+ERROR 2018-07-27 17:27:29,377 [http-8080-2] [kr.co.ldcc.lemp.hybrid.server.web.control.DownloadController]  Download failed! Code: 500, Cause: 1
+INFO 2018-07-27 17:27:40,449 [http-8080-1] [kr.co.ldcc.lemp.hybrid.server.web.control.DownloadController]  ===== Start::download() of my : uid : /download/my, file : pika.exe
+INFO 2018-07-27 17:27:40,450 [http-8080-1] [download.MyDownloader]  ========Start downloading from my : /download/my 
+INFO 2018-07-27 17:27:40,461 [http-8080-1] [kr.co.ldcc.lemp.hybrid.server.web.io.AbstractDownloader]  Start::send()
+INFO 2018-07-27 17:27:40,831 [http-8080-1] [kr.co.ldcc.lemp.hybrid.server.web.io.AbstractDownloader]  End::send()
+INFO 2018-07-27 17:27:40,832 [http-8080-1] [download.MyDownloader]  Sucess downloading from my=============
+INFO 2018-07-27 17:27:40,832 [http-8080-1] [kr.co.ldcc.lemp.hybrid.server.web.control.DownloadController]  End::download() of my =====
+INFO 2018-07-27 17:27:53,627 [http-8080-1] [kr.co.ldcc.lemp.hybrid.server.web.control.DownloadController]  ===== Start::download() of sample : uid : /download/sample, file : pika.exe
+INFO 2018-07-27 17:27:53,628 [http-8080-1] [web.SampleDownloader]  ========Start downloading from sample : /download/sample 
+INFO 2018-07-27 17:27:53,629 [http-8080-1] [kr.co.ldcc.lemp.downloader.URLDownloader]  Start::download()
+INFO 2018-07-27 17:27:53,629 [http-8080-1] [kr.co.ldcc.lemp.downloader.URLDownloader]  End::download()
+ERROR 2018-07-27 17:27:53,630 [http-8080-1] [kr.co.ldcc.lemp.hybrid.server.web.control.DownloadController]  Download failed! Code: 500, Cause: 1
+ERROR 2018-07-27 17:28:01,569 [http-8080-2] [kr.co.ldcc.lemp.hybrid.server.web.control.DownloadController]  Download failed! Code: 500, Cause: Required int parameter 'mode' is not present
+INFO 2018-07-27 17:28:10,847 [http-8080-1] [kr.co.ldcc.lemp.hybrid.server.web.control.DownloadController]  ===== Start::download() of my : uid : /download/my, file : pika.exe
+INFO 2018-07-27 17:28:10,847 [http-8080-1] [download.MyDownloader]  ========Start downloading from my : /download/my 
+INFO 2018-07-27 17:28:10,849 [http-8080-1] [kr.co.ldcc.lemp.hybrid.server.web.io.AbstractDownloader]  Start::send()
+INFO 2018-07-27 17:28:11,116 [http-8080-1] [kr.co.ldcc.lemp.hybrid.server.web.io.AbstractDownloader]  End::send()
+INFO 2018-07-27 17:28:11,116 [http-8080-1] [download.MyDownloader]  Sucess downloading from my=============
+INFO 2018-07-27 17:28:11,117 [http-8080-1] [kr.co.ldcc.lemp.hybrid.server.web.control.DownloadController]  End::download() of my =====
+ERROR 2018-07-27 17:28:15,003 [http-8080-1] [kr.co.ldcc.lemp.hybrid.server.web.control.DownloadController]  Download failed! Code: 500, Cause: Required int parameter 'mode' is not present
+ERROR 2018-07-27 17:28:18,154 [http-8080-2] [kr.co.ldcc.lemp.hybrid.server.web.control.DownloadController]  Download failed! Code: 500, Cause: Required int parameter 'mode' is not present
+INFO 2018-07-27 17:28:25,983 [http-8080-1] [kr.co.ldcc.lemp.hybrid.server.web.control.DownloadController]  ===== Start::download() of my : uid : /download/my, file : pika.exe
+INFO 2018-07-27 17:28:25,984 [http-8080-1] [download.MyDownloader]  ========Start downloading from my : /download/my 
+INFO 2018-07-27 17:28:26,004 [http-8080-1] [kr.co.ldcc.lemp.hybrid.server.web.io.AbstractDownloader]  Start::send()
+INFO 2018-07-27 17:28:26,360 [http-8080-1] [kr.co.ldcc.lemp.hybrid.server.web.io.AbstractDownloader]  End::send()
+INFO 2018-07-27 17:28:26,361 [http-8080-1] [download.MyDownloader]  Sucess downloading from my=============
+INFO 2018-07-27 17:28:26,361 [http-8080-1] [kr.co.ldcc.lemp.hybrid.server.web.control.DownloadController]  End::download() of my =====
+INFO 2018-07-27 17:29:32,930 [http-8080-1] [kr.co.ldcc.lemp.hybrid.server.web.control.DownloadController]  ===== Start::download() of my : uid : /download/my, file : pika.exe
+INFO 2018-07-27 17:29:32,931 [http-8080-1] [download.MyDownloader]  ========Start downloading from my : /download/my 
+INFO 2018-07-27 17:29:32,933 [http-8080-1] [kr.co.ldcc.lemp.hybrid.server.web.io.AbstractDownloader]  Start::send()

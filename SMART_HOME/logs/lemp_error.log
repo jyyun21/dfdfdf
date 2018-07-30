@@ -1,0 +1,7 @@
+ERROR 2018-07-27 17:26:38,952 [main] [kr.co.ldcc.lemp.hybrid.server.web.service.ServicePauseInterceptorService]                 Has occur error during loading servicePauseInterceptorConfig.xml
+ERROR 2018-07-27 17:27:04,901 [http-8080-1] [kr.co.ldcc.lemp.hybrid.server.web.control.DownloadController]                 Download failed! Code: 500, Cause: Required String parameter 'file_name' is not present
+ERROR 2018-07-27 17:27:29,377 [http-8080-2] [kr.co.ldcc.lemp.hybrid.server.web.control.DownloadController]                 Download failed! Code: 500, Cause: 1
+ERROR 2018-07-27 17:27:53,630 [http-8080-1] [kr.co.ldcc.lemp.hybrid.server.web.control.DownloadController]                 Download failed! Code: 500, Cause: 1
+ERROR 2018-07-27 17:28:01,569 [http-8080-2] [kr.co.ldcc.lemp.hybrid.server.web.control.DownloadController]                 Download failed! Code: 500, Cause: Required int parameter 'mode' is not present
+ERROR 2018-07-27 17:28:15,003 [http-8080-1] [kr.co.ldcc.lemp.hybrid.server.web.control.DownloadController]                 Download failed! Code: 500, Cause: Required int parameter 'mode' is not present
+ERROR 2018-07-27 17:28:18,154 [http-8080-2] [kr.co.ldcc.lemp.hybrid.server.web.control.DownloadController]                 Download failed! Code: 500, Cause: Required int parameter 'mode' is not present

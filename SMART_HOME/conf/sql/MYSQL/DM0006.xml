@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="DM0006">
+
+	<update id="6001" statementType="PREPARED" parameterType="java.util.HashMap">
+		<![CDATA[
+			/* 6001 게시물 업데이트 */
+			UPDATE 
+				DEMO_BOARD_TBL
+			SET   
+				title = #{title}
+				,contents = #{contents}
+				,regdate = now()
+			WHERE
+				docId = #{docId}
+		]]>
+	</update>
+	
+	
+</mapper>	

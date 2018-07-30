@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="DM0001">	
+	<select id="1001" statementType="PREPARED"  parameterType="java.util.HashMap" 
+	    resultType="data.UserDomain">
+		<![CDATA[
+			/* 1001 사용자 정보 조회 */ 		
+	    	SELECT
+	    		userId
+	    		,passWord
+	    		,userName
+	    		,tel
+	    		,celtel
+	    		,email
+	    		,deptName
+	    	FROM
+	    		demo_user_info_tbl
+	    	WHERE
+	    		userId = #{userId}
+		]]>
+	</select>	
+	
+</mapper>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;SampleDownloader.java&apos; to &apos;lemp-adapter/src/adapter&apos;&#x0D;&#x0A;- Original project: &apos;lemp-server&apos;&#x0D;&#x0A;- Destination element: &apos;lemp-adapter/src/adapter&apos;&#x0D;&#x0A;- Original element: &apos;web.SampleDownloader.java&apos;" description="Copy compilation unit" destination="=lemp-adapter/src&lt;adapter" element1="/src&lt;web{SampleDownloader.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1532678727009" units="1" version="1.0"/>
+</session>

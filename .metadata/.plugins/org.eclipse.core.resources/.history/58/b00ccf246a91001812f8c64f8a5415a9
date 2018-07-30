@@ -1,0 +1,65 @@
+package adapter;
+
+import java.util.HashMap;
+
+import kr.co.ldcc.lemp.adapter.AbstractTemplateAdapter;
+import kr.co.ldcc.lemp.adapter.DBAdapter;
+import kr.co.ldcc.lemp.adapter.HTTPAdapter;
+import kr.co.ldcc.lemp.hybrid.adapter.api.Adapter;
+import kr.co.ldcc.lemp.hybrid.adapter.api.IAdapterJob;
+import kr.co.ldcc.lemp.hybrid.common.server.JsonAdaptorObject;
+import model.DM0003.DM0003Request;
+import model.DM0003.DM0003Request_Body;
+import model.DM0003.DM0003Response;
+import model.DM0003.DM0003Response_Body;
+import model.header.DMheader;
+
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+import org.springframework.beans.factory.annotation.Autowired;
+
+@Adapter(trcode = { "DM0003" })
+public class DM0003_Adapter extends AbstractTemplateAdapter implements
+		IAdapterJob {
+
+	private static final Logger logger = LoggerFactory
+			.getLogger(DM0003_Adapter.class);
+	@Autowired
+	private DBAdapter dbAdapter;
+	@Autowired
+	private HTTPAdapter httpAdapter;
+
+	public JsonAdaptorObject onProcess(JsonAdaptorObject obj) {
+
+		DM0003Request request = new DM0003Request(obj);
+		DMheader header = request.getHeader();
+		DM0003Request_Body reqBody = request.getBody();
+
+		//Start Business Logic Coding!
+		try {
+
+			
+			int docId= reqBody.getDocId();
+			HashMap<String, Object> input = new HashMap<String, Object>();
+			input.put("docId", docId);
+			
+			DM0003Response_Body resBody = (DM0003Response_Body) dbAdapter.selectOne("LegacyDB", "DM0003.3001", input);
+			
+			if(resBody == null){
+				logger.info("게시글이 없다");
+				return makeFailResponse("게시글이 없다");
+			}
+			
+			DM0003Response response = new DM0003Response();
+			response.setHeader(header);
+			response.setBody(resBody);
+		//  성공시
+			return makeResponse(obj, response.toJsonNode()); // DM0001Response를 JSON형식으로 넘겨줘야함
+			
+		} catch (Exception e) {
+			logger.error("에러 발생",e);
+			return makeFailResponse("DM0002 에러발생");
+		}
+	}
+
+}

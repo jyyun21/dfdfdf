@@ -1,0 +1,41 @@
+package adapter;
+
+import kr.co.ldcc.lemp.adapter.AbstractTemplateAdapter;
+import kr.co.ldcc.lemp.adapter.DBAdapter;
+import kr.co.ldcc.lemp.hybrid.adapter.api.Adapter;
+import kr.co.ldcc.lemp.hybrid.adapter.api.IAdapterJob;
+import kr.co.ldcc.lemp.hybrid.common.server.JsonAdaptorObject;
+import model.DM0002.DM0002Request;
+import model.DM0002.DM0002Request_Body;
+import model.header.DMheader;
+
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+import org.springframework.beans.factory.annotation.Autowired;
+
+@Adapter(trcode = { "DM0002" })
+public class DM0002_Adapter extends AbstractTemplateAdapter implements
+		IAdapterJob {
+
+	private static final Logger logger = LoggerFactory
+			.getLogger(DM0002_Adapter.class);
+	@Autowired
+	private DBAdapter dbAdapter;
+
+	public JsonAdaptorObject onProcess(JsonAdaptorObject obj) {
+
+		DM0002Request request = new DM0002Request(obj);
+		DMheader header = request.getHeader();
+		DM0002Request_Body reqBody = request.getBody();
+
+		//Start Business Logic Coding!
+		try {
+
+			return null;
+		} catch (Exception e) {
+
+			return null;
+		}
+	}
+
+}

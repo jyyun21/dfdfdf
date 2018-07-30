@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="DM0003">
+	
+	<select id="3001" statementType="PREPARED"  parameterType="java.util.HashMap" resultType="model.DM0003.DM0003Response_Body">
+		<![CDATA[
+			/* 3001 게시물 상세 정보 조회 */ 
+			SELECT 
+			  a.docId
+			 ,a.title
+			 ,a.contents
+			 ,a.regDate
+			 ,b.userName
+			 ,b.deptName
+			FROM 
+			  DEMO_BOARD_TBL A INNER JOIN DEMO_USER_INFO_TBL B ON A.CREATOR_ID = B.USERID
+			WHERE
+			  docID = #{docId}
+		    	        
+		]]>
+	</select>
+	
+</mapper>

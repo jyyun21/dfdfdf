@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="DM0002">
+	
+	<select id="2001" statementType="PREPARED" parameterType="java.util.HashMap" resultType="java.lang.Integer">
+		<![CDATA[
+			/* 2001 게시판 목록 총 조회개수*/
+			SELECT 
+			  COUNT(*) AS totalCnt
+			FROM 
+			  DEMO_BOARD_TBL A INNER JOIN DEMO_USER_INFO_TBL B ON A.CREATOR_ID = B.USERID
+
+			]]>
+	</select>	
+	
+	<select id="2002" statementType="PREPARED" parameterType="java.util.HashMap" 
+	    resultType="model.DM0002.DM0002Response_Body_list">
+		<![CDATA[
+			/* 2002 게시판 목록 조회*/
+			SELECT 
+				docId,
+				title,
+				userName,
+				deptName,
+				regDate
+			FROM   DEMO_BOARD_TBL A INNER JOIN DEMO_USER_INFO_TBL B ON A.CREATOR_ID = B.USERID
+			
+		]]>
+	</select>
+	
+	
+</mapper>

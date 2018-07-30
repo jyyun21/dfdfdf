@@ -1,0 +1,22 @@
+{
+  "license_no" : "110601030024",
+  "customer_no" : "11060103",
+  "deploy_type" : "TEST",
+  "validation" : {
+    "from_license" : "20110828",
+    "to_license" : "20170301",
+    "license_type" : "DEVICE",
+    "company_count" : 5,
+    "admin_count" : 10,
+    "user_count" : 0,
+    "device_count" : 2000,
+    "server_ips" : [ "127.0.0.1" ]
+  },
+  "app_license" : [ {
+    "app_key" : "BMGWIOP0",
+    "app_name" : "LEMP Groupware iOS"
+  }, {
+    "app_key" : "BMGWANP0",
+    "app_name" : "LEMP Groupware Android"
+  } ]
+}
